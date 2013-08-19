@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://szhen002.github.io/atom.xml" rel="self"/>
   <link href="http://szhen002.github.io/"/>
-  <updated>2013-08-19T19:10:13-04:00</updated>
+  <updated>2013-08-19T19:13:01-04:00</updated>
   <id>http://szhen002.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,50 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Pretty Fly for a Rye Guy]]></title>
+    <link href="http://szhen002.github.io/blog/2013/08/19/pretty-fly-for-a-rye-guy/"/>
+    <updated>2013-08-19T19:12:00-04:00</updated>
+    <id>http://szhen002.github.io/blog/2013/08/19/pretty-fly-for-a-rye-guy</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[No rest for the wicked]]></title>
+    <link href="http://szhen002.github.io/blog/2013/08/19/no-rest-for-the-wicked/"/>
+    <updated>2013-08-19T19:12:00-04:00</updated>
+    <id>http://szhen002.github.io/blog/2013/08/19/no-rest-for-the-wicked</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hipsterish Blog Title]]></title>
+    <link href="http://szhen002.github.io/blog/2013/08/19/hipsterish-blog-title/"/>
+    <updated>2013-08-19T19:12:00-04:00</updated>
+    <id>http://szhen002.github.io/blog/2013/08/19/hipsterish-blog-title</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[thanks Alex Garlbay for the wicked theme]]></title>
+    <link href="http://szhen002.github.io/blog/2013/08/19/thanks-alex-garlbay-for-the-wicked-theme/"/>
+    <updated>2013-08-19T19:11:00-04:00</updated>
+    <id>http://szhen002.github.io/blog/2013/08/19/thanks-alex-garlbay-for-the-wicked-theme</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[test]]></title>
+    <link href="http://szhen002.github.io/blog/2013/08/19/test/"/>
+    <updated>2013-08-19T19:10:00-04:00</updated>
+    <id>http://szhen002.github.io/blog/2013/08/19/test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>

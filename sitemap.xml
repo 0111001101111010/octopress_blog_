@@ -1,12 +1,34 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://szhen002.github.io/blog/2013/08/19/test/</loc>
+        <lastmod>2013-08-19T19:10:52-04:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://szhen002.github.io/blog/2013/08/19/thanks-alex-garlbay-for-the-wicked-theme/
+        </loc>
+        <lastmod>2013-08-19T19:11:13-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://szhen002.github.io/blog/2013/08/19/hipsterish-blog-title/</loc>
+        <lastmod>2013-08-19T19:12:40-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://szhen002.github.io/blog/2013/08/19/no-rest-for-the-wicked/</loc>
+        <lastmod>2013-08-19T19:12:29-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://szhen002.github.io/blog/2013/08/19/pretty-fly-for-a-rye-guy/</loc>
+        <lastmod>2013-08-19T19:12:50-04:00</lastmod>
+    </url>
+    <url>
         <loc>http://szhen002.github.io/blog/archives/</loc>
-        <lastmod>2013-08-19T19:02:56-04:00</lastmod>
+        <lastmod>2013-08-19T19:12:50-04:00</lastmod>
     </url>
     <url>
         <loc>http://szhen002.github.io/</loc>
-        <lastmod>2013-08-19T19:02:56-04:00</lastmod>
+        <lastmod>2013-08-19T19:12:50-04:00</lastmod>
     </url>
     <url>
         <loc>http://szhen002.github.io/robots.txt</loc>
