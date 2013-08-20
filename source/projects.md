@@ -6,3 +6,16 @@ comments: true
 sharing: true
 footer: true
 ---
+
+
+Working on a bunch of non sense right now
+
+
+Languages
+--------
+
+
+Projects
+--------
+
+Long Term Goals
