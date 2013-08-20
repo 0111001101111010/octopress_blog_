@@ -4,7 +4,7 @@
   <title><![CDATA[Student Developer]]></title>
   <link href="http://szhen002.github.io/atom.xml" rel="self"/>
   <link href="http://szhen002.github.io/"/>
-  <updated>2013-08-19T21:14:11-04:00</updated>
+  <updated>2013-08-19T22:43:17-04:00</updated>
   <id>http://szhen002.github.io/</id>
   <author>
     <name><![CDATA[Stanley Zheng]]></name>
@@ -36,7 +36,7 @@
     <link href="http://szhen002.github.io/blog/2013/08/19/no-rest-for-the-wicked/"/>
     <updated>2013-08-19T19:12:00-04:00</updated>
     <id>http://szhen002.github.io/blog/2013/08/19/no-rest-for-the-wicked</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>content: hello dolly</p>
 ]]></content>
   </entry>
   
@@ -45,7 +45,7 @@
     <link href="http://szhen002.github.io/blog/2013/08/19/hipsterish-blog-title/"/>
     <updated>2013-08-19T19:12:00-04:00</updated>
     <id>http://szhen002.github.io/blog/2013/08/19/hipsterish-blog-title</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Angry text about topics and life!</p>
 ]]></content>
   </entry>
   
