@@ -4,7 +4,7 @@
   <title><![CDATA[Student Developer]]></title>
   <link href="http://szhen002.github.io/atom.xml" rel="self"/>
   <link href="http://szhen002.github.io/"/>
-  <updated>2013-08-20T21:16:11-04:00</updated>
+  <updated>2013-08-20T22:05:38-04:00</updated>
   <id>http://szhen002.github.io/</id>
   <author>
     <name><![CDATA[Stanley Zheng]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[A Jump into Bootstrap: Commerce Made Easy]]></title>
+    <link href="http://szhen002.github.io/blog/2013/08/20/a-jump-into-bootstrap-commerce-made-easy/"/>
+    <updated>2013-08-20T21:27:00-04:00</updated>
+    <id>http://szhen002.github.io/blog/2013/08/20/a-jump-into-bootstrap-commerce-made-easy</id>
+    <content type="html"><![CDATA[<p><img src="http://i.imgur.com/RwuhTjq.jpg"></p>
+
+<p>This is what I&rsquo;m starting with. Its a small business website with infrequent needs.  <a href="http://thechinasun.com">http://thechinasun.com</a></p>
+
+<p>Like all small restaurant businesses core information wanted by customers are</p>
+
+<p>-Hours<br/>
+-Phone Number <br/>
+-Address  <br/>
+-Menu &amp; Prices<br/>
+-Gallery</p>
+
+<p>Using Bootstrap is a smart decision for a finish looking website fast and good experience on mobile for menus and call numbers.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Learned Lessons Hard]]></title>
