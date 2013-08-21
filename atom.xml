@@ -4,7 +4,7 @@
   <title><![CDATA[Student Developer]]></title>
   <link href="http://szhen002.github.io/atom.xml" rel="self"/>
   <link href="http://szhen002.github.io/"/>
-  <updated>2013-08-20T00:26:57-04:00</updated>
+  <updated>2013-08-20T21:16:11-04:00</updated>
   <id>http://szhen002.github.io/</id>
   <author>
     <name><![CDATA[Stanley Zheng]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Learned Lessons Hard]]></title>
+    <link href="http://szhen002.github.io/blog/2013/08/20/hard-lessons-learned/"/>
+    <updated>2013-08-20T21:14:00-04:00</updated>
+    <id>http://szhen002.github.io/blog/2013/08/20/hard-lessons-learned</id>
+    <content type="html"><![CDATA[<h1>Blog Berries</h1>
+
+<p>Saw this idea on a similar Octopress blogger at Shopify. They posted things they had learned, whether it was a snippet or something important.
+A self composed series of don&#8217;ts learned through experience and serious angry hacking.</p>
+
+<h1>Not being mean</h1>
+
+<p>Don&rsquo;t take this as a criticism but rather helpful advice related to me that can be applied to you.</p>
+
+<h1>Ways to help you not F*** up</h1>
+
+<p>Let the anger begin.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Biggest No-No: Dont Commit to Master]]></title>
