@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Euler Problems: Wonderful Practice"
+date: 2013-08-21 00:27
+comments: true
+categories: 
+---
+Project euler 
+==============
+Projecteuler.net is a collection of math problems that can be implementable in a programming flavor of your choosing.
+
+In my github repo i've endevored to complete implementing these problems in any language I'm currently learning to better understand semantics of the language I'm working in and practice math skills.
+
+Here is a helpful resource of answers to compare to   
+
+https://code.google.com/p/projecteuler-solutions/wiki/ProjectEulerSolutions
+
+make it a goal to get to these solutions, not to backwards solve.
+
+Happy Solving!
+=============

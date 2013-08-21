@@ -7,11 +7,19 @@ sharing: true
 footer: true
 ---
 
-
+Student
+=======
 Currently working on a Bachelors of Computer Science from Old Dominion University.
 
-Interested in Open Source Software and Open Web movement.
 
+Open
+========
+Interested in Open Source Software and Open Web movement. Follow my Github Above!
+
+Working
+========
 Interning for a Geospatial Information Systems Company in Williamsburg Virginia, NBT Solutions as a Software Intern.
 
+Civic Hacking
+=============
 Volunteers for CodeforHampton Roads, a CodeforAmerica Brigade and organizes sometime.

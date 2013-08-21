@@ -8,19 +8,24 @@ footer: true
 ---
 
 
-Working on a bunch of non sense right now
+Working on a bunch of nonsense right now
 
 
 Languages
+===========
+={% img  http://i.imgur.com/mpZzr9G.png 100 100  %}
+{% img  http://i.imgur.com/OTemKhB.png 100 100  %}
+{% img  http://i.imgur.com/m8nCnsB.png 100 100  %}
+{% img  http://i.imgur.com/GA7M69X.png 100 100  %}
+
 --------
-1. C++
-2. Ruby
-3. Javascript
-4. HTML5/CSS
-
-
 Projects
---------
+============= 
+-Civic Projects 
+-Coding Websites 
+-Civic Tech 
+-Startups? 
 
 Long Term Goals
---------
+==============
+Code Things
