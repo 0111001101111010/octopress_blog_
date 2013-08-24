@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Lessons | Student Developer]]></title>
+  <link href="http://szhen002.github.io/blog/categories/lessons/atom.xml" rel="self"/>
+  <link href="http://szhen002.github.io/"/>
+  <updated>2013-08-23T23:05:55-04:00</updated>
+  <id>http://szhen002.github.io/</id>
+  <author>
+    <name><![CDATA[Stanley Zheng]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Lessons Learned Hard#1]]></title>
+    <link href="http://szhen002.github.io/blog/2013/08/23/lessons-learned-hart-number-1/"/>
+    <updated>2013-08-23T22:49:00-04:00</updated>
+    <id>http://szhen002.github.io/blog/2013/08/23/lessons-learned-hart-number-1</id>
+    <content type="html"><![CDATA[<p>Lessons Learned Hard Summary: <br/>
+-Best way to get back to normal is to clean install.  <br/>
+-Make back ups and back ups of back ups.  <br/>
+-Keep realistic expectations of every project</p>
+]]></content>
+  </entry>
+  
+</feed>
