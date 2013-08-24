@@ -4,7 +4,7 @@
   <title><![CDATA[Student Developer]]></title>
   <link href="http://szhen002.github.io/atom.xml" rel="self"/>
   <link href="http://szhen002.github.io/"/>
-  <updated>2013-08-21T21:25:17-04:00</updated>
+  <updated>2013-08-23T22:51:14-04:00</updated>
   <id>http://szhen002.github.io/</id>
   <author>
     <name><![CDATA[Stanley Zheng]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Lessons Learned Hard#1]]></title>
+    <link href="http://szhen002.github.io/blog/2013/08/23/lessons-learned-hart-number-1/"/>
+    <updated>2013-08-23T22:49:00-04:00</updated>
+    <id>http://szhen002.github.io/blog/2013/08/23/lessons-learned-hart-number-1</id>
+    <content type="html"><![CDATA[<p>Lessons Learned Hard Summary:
+-Best way to get back to normal is to clean install.
+-Make back ups and back ups of back ups.
+-Keep realistic expectations of every project</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Euler Problems: Wonderful Practice]]></title>
