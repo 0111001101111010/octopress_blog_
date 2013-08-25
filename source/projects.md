@@ -13,7 +13,7 @@ Working on a bunch of nonsense right now
 
 Languages
 ===========
-={% img  http://i.imgur.com/mpZzr9G.png 100 100  %}
+{% img  http://i.imgur.com/mpZzr9G.png 100 100  %}
 {% img  http://i.imgur.com/OTemKhB.png 100 100  %}
 {% img  http://i.imgur.com/m8nCnsB.png 100 100  %}
 {% img  http://i.imgur.com/GA7M69X.png 100 100  %}
@@ -21,10 +21,10 @@ Languages
 --------
 Projects
 ============= 
--Civic Projects 
--Coding Websites 
--Civic Tech 
--Startups? 
+-Civic Projects 	
+-Coding Websites 	
+-Civic Tech 	
+-Startups? 	
 
 Long Term Goals
 ==============
