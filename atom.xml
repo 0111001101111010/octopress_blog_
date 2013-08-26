@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Student Developer]]></title>
-  <link href="http://szhen002.github.io/atom.xml" rel="self"/>
-  <link href="http://szhen002.github.io/"/>
-  <updated>2013-08-25T16:20:05-04:00</updated>
-  <id>http://szhen002.github.io/</id>
+  <link href="http://stanzheng.github.io/atom.xml" rel="self"/>
+  <link href="http://stanzheng.github.io/"/>
+  <updated>2013-08-25T21:37:37-04:00</updated>
+  <id>http://stanzheng.github.io/</id>
   <author>
     <name><![CDATA[Stanley Zheng]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[adopt-a-thing]]></title>
-    <link href="http://szhen002.github.io/blog/2013/08/25/adopt-a-thing/"/>
+    <link href="http://stanzheng.github.io/blog/2013/08/25/adopt-a-thing/"/>
     <updated>2013-08-25T16:11:00-04:00</updated>
-    <id>http://szhen002.github.io/blog/2013/08/25/adopt-a-thing</id>
+    <id>http://stanzheng.github.io/blog/2013/08/25/adopt-a-thing</id>
     <content type="html"><![CDATA[<h1>Why</h1>
 
 <p>One of my projects that I took interested in with CodeforAmerica is the adopt-a-hydrant project.
@@ -26,7 +26,7 @@ Allowing citizens to be aware of important and streamlining the process is a reo
 
 <p>I am trying to localize it for Norfolk and the <a href="http://www.norfolkbeautiful.org/">http://www.norfolkbeautiful.org/</a> and Adopt-A-Spot Programs. Stream lining how this project takes place, encourages youth to get more active and showcase the efforts of volunteers. We can spatial recognize the hot zones where people are cleaning, and effeciently examine other areas of need.</p>
 
-<p>my adopt-a-spot repo <a href="https://github.com/szhen002/adopt-a-hydrant">https://github.com/szhen002/adopt-a-hydrant</a></p>
+<p>my adopt-a-spot repo <a href="https://github.com/stanzheng/adopt-a-hydrant">https://github.com/stanzheng/adopt-a-hydrant</a></p>
 
 <h1>Localization</h1>
 
@@ -45,9 +45,9 @@ Allowing citizens to be aware of important and streamlining the process is a reo
   
   <entry>
     <title type="html"><![CDATA[Bootstrap:Asset_Compiling]]></title>
-    <link href="http://szhen002.github.io/blog/2013/08/23/bootstrap-asset-compiling/"/>
+    <link href="http://stanzheng.github.io/blog/2013/08/23/bootstrap-asset-compiling/"/>
     <updated>2013-08-23T23:04:00-04:00</updated>
-    <id>http://szhen002.github.io/blog/2013/08/23/bootstrap-asset-compiling</id>
+    <id>http://stanzheng.github.io/blog/2013/08/23/bootstrap-asset-compiling</id>
     <content type="html"><![CDATA[<p>Continuation of small business site plan.</p>
 
 <p>Compiling all my assets and adding them to a single repo.</p>
@@ -60,9 +60,9 @@ Allowing citizens to be aware of important and streamlining the process is a reo
   
   <entry>
     <title type="html"><![CDATA[Lessons Learned Hard#1]]></title>
-    <link href="http://szhen002.github.io/blog/2013/08/23/lessons-learned-hart-number-1/"/>
+    <link href="http://stanzheng.github.io/blog/2013/08/23/lessons-learned-hart-number-1/"/>
     <updated>2013-08-23T22:49:00-04:00</updated>
-    <id>http://szhen002.github.io/blog/2013/08/23/lessons-learned-hart-number-1</id>
+    <id>http://stanzheng.github.io/blog/2013/08/23/lessons-learned-hart-number-1</id>
     <content type="html"><![CDATA[<p>Lessons Learned Hard Summary:
 -Best way to get back to normal is to clean install.
 -Make back ups and back ups of back ups.
@@ -72,9 +72,9 @@ Allowing citizens to be aware of important and streamlining the process is a reo
   
   <entry>
     <title type="html"><![CDATA[Euler Problems: Wonderful Practice]]></title>
-    <link href="http://szhen002.github.io/blog/2013/08/21/euler/"/>
+    <link href="http://stanzheng.github.io/blog/2013/08/21/euler/"/>
     <updated>2013-08-21T00:27:00-04:00</updated>
-    <id>http://szhen002.github.io/blog/2013/08/21/euler</id>
+    <id>http://stanzheng.github.io/blog/2013/08/21/euler</id>
     <content type="html"><![CDATA[<h1>Project euler </h1>
 
 <p>Projecteuler.net is a collection of math problems that can be implementable in a programming flavor of your choosing.</p>
@@ -93,9 +93,9 @@ Allowing citizens to be aware of important and streamlining the process is a reo
   
   <entry>
     <title type="html"><![CDATA[A Jump into Bootstrap: Commerce Made Easy]]></title>
-    <link href="http://szhen002.github.io/blog/2013/08/20/a-jump-into-bootstrap-commerce-made-easy/"/>
+    <link href="http://stanzheng.github.io/blog/2013/08/20/a-jump-into-bootstrap-commerce-made-easy/"/>
     <updated>2013-08-20T21:27:00-04:00</updated>
-    <id>http://szhen002.github.io/blog/2013/08/20/a-jump-into-bootstrap-commerce-made-easy</id>
+    <id>http://stanzheng.github.io/blog/2013/08/20/a-jump-into-bootstrap-commerce-made-easy</id>
     <content type="html"><![CDATA[<p><img src="http://i.imgur.com/RwuhTjq.jpg"></p>
 
 <p>This is what I&rsquo;m starting with. Its a small business website with infrequent needs.  <a href="http://thechinasun.com">http://thechinasun.com</a></p>
@@ -114,9 +114,9 @@ Allowing citizens to be aware of important and streamlining the process is a reo
   
   <entry>
     <title type="html"><![CDATA[Learned Lessons Hard]]></title>
-    <link href="http://szhen002.github.io/blog/2013/08/20/hard-lessons-learned/"/>
+    <link href="http://stanzheng.github.io/blog/2013/08/20/hard-lessons-learned/"/>
     <updated>2013-08-20T21:14:00-04:00</updated>
-    <id>http://szhen002.github.io/blog/2013/08/20/hard-lessons-learned</id>
+    <id>http://stanzheng.github.io/blog/2013/08/20/hard-lessons-learned</id>
     <content type="html"><![CDATA[<h1>Blog Berries</h1>
 
 <p>Saw this idea on a similar Octopress blogger at Shopify. They posted things they had learned, whether it was a snippet or something important.
@@ -134,63 +134,63 @@ A self composed series of don&#8217;ts learned through experience and serious an
   
   <entry>
     <title type="html"><![CDATA[Biggest No-No: Dont Commit to Master]]></title>
-    <link href="http://szhen002.github.io/blog/2013/08/19/biggest-no-no-dont-commit-to-master/"/>
+    <link href="http://stanzheng.github.io/blog/2013/08/19/biggest-no-no-dont-commit-to-master/"/>
     <updated>2013-08-19T23:07:00-04:00</updated>
-    <id>http://szhen002.github.io/blog/2013/08/19/biggest-no-no-dont-commit-to-master</id>
+    <id>http://stanzheng.github.io/blog/2013/08/19/biggest-no-no-dont-commit-to-master</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Patrick Ryans a Nice Dude]]></title>
-    <link href="http://szhen002.github.io/blog/2013/08/19/patrick-ryans-a-nice-dude/"/>
+    <link href="http://stanzheng.github.io/blog/2013/08/19/patrick-ryans-a-nice-dude/"/>
     <updated>2013-08-19T20:09:00-04:00</updated>
-    <id>http://szhen002.github.io/blog/2013/08/19/patrick-ryans-a-nice-dude</id>
+    <id>http://stanzheng.github.io/blog/2013/08/19/patrick-ryans-a-nice-dude</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Pretty Fly for a Rye Guy]]></title>
-    <link href="http://szhen002.github.io/blog/2013/08/19/pretty-fly-for-a-rye-guy/"/>
+    <link href="http://stanzheng.github.io/blog/2013/08/19/pretty-fly-for-a-rye-guy/"/>
     <updated>2013-08-19T19:12:00-04:00</updated>
-    <id>http://szhen002.github.io/blog/2013/08/19/pretty-fly-for-a-rye-guy</id>
+    <id>http://stanzheng.github.io/blog/2013/08/19/pretty-fly-for-a-rye-guy</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[No rest for the wicked]]></title>
-    <link href="http://szhen002.github.io/blog/2013/08/19/no-rest-for-the-wicked/"/>
+    <link href="http://stanzheng.github.io/blog/2013/08/19/no-rest-for-the-wicked/"/>
     <updated>2013-08-19T19:12:00-04:00</updated>
-    <id>http://szhen002.github.io/blog/2013/08/19/no-rest-for-the-wicked</id>
+    <id>http://stanzheng.github.io/blog/2013/08/19/no-rest-for-the-wicked</id>
     <content type="html"><![CDATA[<p>content: hello dolly</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Hipsterish Blog Title]]></title>
-    <link href="http://szhen002.github.io/blog/2013/08/19/hipsterish-blog-title/"/>
+    <link href="http://stanzheng.github.io/blog/2013/08/19/hipsterish-blog-title/"/>
     <updated>2013-08-19T19:12:00-04:00</updated>
-    <id>http://szhen002.github.io/blog/2013/08/19/hipsterish-blog-title</id>
+    <id>http://stanzheng.github.io/blog/2013/08/19/hipsterish-blog-title</id>
     <content type="html"><![CDATA[<p>Angry text about topics and life!</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[thanks Alex Garlbay for the wicked theme]]></title>
-    <link href="http://szhen002.github.io/blog/2013/08/19/thanks-alex-garlbay-for-the-wicked-theme/"/>
+    <link href="http://stanzheng.github.io/blog/2013/08/19/thanks-alex-garlbay-for-the-wicked-theme/"/>
     <updated>2013-08-19T19:11:00-04:00</updated>
-    <id>http://szhen002.github.io/blog/2013/08/19/thanks-alex-garlbay-for-the-wicked-theme</id>
+    <id>http://stanzheng.github.io/blog/2013/08/19/thanks-alex-garlbay-for-the-wicked-theme</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[test]]></title>
-    <link href="http://szhen002.github.io/blog/2013/08/19/test/"/>
+    <link href="http://stanzheng.github.io/blog/2013/08/19/test/"/>
     <updated>2013-08-19T19:10:00-04:00</updated>
-    <id>http://szhen002.github.io/blog/2013/08/19/test</id>
+    <id>http://stanzheng.github.io/blog/2013/08/19/test</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

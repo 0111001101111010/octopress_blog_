@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: bootstrap | Student Developer]]></title>
-  <link href="http://szhen002.github.io/blog/categories/bootstrap/atom.xml" rel="self"/>
-  <link href="http://szhen002.github.io/"/>
-  <updated>2013-08-25T16:20:05-04:00</updated>
-  <id>http://szhen002.github.io/</id>
+  <link href="http://stanzheng.github.io/blog/categories/bootstrap/atom.xml" rel="self"/>
+  <link href="http://stanzheng.github.io/"/>
+  <updated>2013-08-25T21:37:37-04:00</updated>
+  <id>http://stanzheng.github.io/</id>
   <author>
     <name><![CDATA[Stanley Zheng]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Bootstrap:Asset_Compiling]]></title>
-    <link href="http://szhen002.github.io/blog/2013/08/23/bootstrap-asset-compiling/"/>
+    <link href="http://stanzheng.github.io/blog/2013/08/23/bootstrap-asset-compiling/"/>
     <updated>2013-08-23T23:04:00-04:00</updated>
-    <id>http://szhen002.github.io/blog/2013/08/23/bootstrap-asset-compiling</id>
+    <id>http://stanzheng.github.io/blog/2013/08/23/bootstrap-asset-compiling</id>
     <content type="html"><![CDATA[<p>Continuation of small business site plan.</p>
 
 <p>Compiling all my assets and adding them to a single repo.</p>
