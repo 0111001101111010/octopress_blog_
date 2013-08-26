@@ -4,7 +4,7 @@
   <title><![CDATA[Student Developer]]></title>
   <link href="http://stanzheng.github.io/atom.xml" rel="self"/>
   <link href="http://stanzheng.github.io/"/>
-  <updated>2013-08-25T21:37:37-04:00</updated>
+  <updated>2013-08-25T21:39:53-04:00</updated>
   <id>http://stanzheng.github.io/</id>
   <author>
     <name><![CDATA[Stanley Zheng]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Can't Rake Deploy? Fastforwarding]]></title>
+    <link href="http://stanzheng.github.io/blog/2013/08/25/cant-rake-deploy-fastforwarding/"/>
+    <updated>2013-08-25T21:38:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/08/25/cant-rake-deploy-fastforwarding</id>
+    <content type="html"><![CDATA[<p>Migrated to a new username?
+Commited to the wrong branch?<br/>
+Branch Behind someway somehow?</p>
+
+<p>This stackoverflow question suggests an easy fix by adding a + which is equivalent to a -f force push to override.</p>
+
+<p>This will mess up anything you did have but its better than starting over like I had before.</p>
+
+<p><a href="http://stackoverflow.com/questions/17609453/rake-gen-deploy-rejected-in-octopress">http://stackoverflow.com/questions/17609453/rake-gen-deploy-rejected-in-octopress</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[adopt-a-thing]]></title>
