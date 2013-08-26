@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: bootstrap | Student Developer]]></title>
+  <link href="http://szhen002.github.io/blog/categories/bootstrap/atom.xml" rel="self"/>
+  <link href="http://szhen002.github.io/"/>
+  <updated>2013-08-25T16:20:05-04:00</updated>
+  <id>http://szhen002.github.io/</id>
+  <author>
+    <name><![CDATA[Stanley Zheng]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Bootstrap:Asset_Compiling]]></title>
+    <link href="http://szhen002.github.io/blog/2013/08/23/bootstrap-asset-compiling/"/>
+    <updated>2013-08-23T23:04:00-04:00</updated>
+    <id>http://szhen002.github.io/blog/2013/08/23/bootstrap-asset-compiling</id>
+    <content type="html"><![CDATA[<p>Continuation of small business site plan.</p>
+
+<p>Compiling all my assets and adding them to a single repo.</p>
+
+<p>All the information for this project is all in IMG&rsquo;s and PNGs.</p>
+
+<p>This has to be text and the only way is good ole fashion typing.</p>
+]]></content>
+  </entry>
+  
+</feed>
