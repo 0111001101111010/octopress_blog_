@@ -14,7 +14,7 @@ Allowing citizens to be aware of important and streamlining the process is a reo
 
 I am trying to localize it for Norfolk and the http://www.norfolkbeautiful.org/ and Adopt-A-Spot Programs. Stream lining how this project takes place, encourages youth to get more active and showcase the efforts of volunteers. We can spatial recognize the hot zones where people are cleaning, and effeciently examine other areas of need.
 
-my adopt-a-spot repo https://github.com/szhen002/adopt-a-hydrant
+my adopt-a-spot repo https://github.com/stanzheng/adopt-a-hydrant
 
 
 Localization

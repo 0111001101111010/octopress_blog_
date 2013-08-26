@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://szhen002.github.io
+url: http://stanzheng.github.io
 title: Student Developer
 subtitle: Blog and Contact
 author: Stanley Zheng
@@ -75,8 +75,8 @@ navigation:
 # ----------------------- #
 
 # Github repositories
-github_user: szhen002
-github_repo_count: 0
+github_user: stanzheng	
+github_repo_count: 10
 github_show_profile_link: true
 github_skip_forks: true
 
