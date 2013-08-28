@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "lessons learn hard#2"
+title: "lessons learned hard#2"
 date: 2013-08-28 01:13
 comments: true
 categories: 

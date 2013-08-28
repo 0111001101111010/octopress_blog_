@@ -21,8 +21,11 @@ Semi meh at
 
 learning now or this semester   
 -Python  
+-----------
 -PHP  
+--------
 -R  
+------------
 -Java   
 --------
 Projects
