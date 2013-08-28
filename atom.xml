@@ -4,7 +4,7 @@
   <title><![CDATA[Student Developer]]></title>
   <link href="http://stanzheng.github.io/atom.xml" rel="self"/>
   <link href="http://stanzheng.github.io/"/>
-  <updated>2013-08-25T21:39:53-04:00</updated>
+  <updated>2013-08-28T01:20:38-04:00</updated>
   <id>http://stanzheng.github.io/</id>
   <author>
     <name><![CDATA[Stanley Zheng]]></name>
@@ -12,6 +12,65 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[lessons learn hard#2]]></title>
+    <link href="http://stanzheng.github.io/blog/2013/08/28/lessons-learn-hard-number-2/"/>
+    <updated>2013-08-28T01:13:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/08/28/lessons-learn-hard-number-2</id>
+    <content type="html"><![CDATA[<h1>Installing VirtualBox on Ubuntu 13.04</h1>
+
+<ol>
+<li><p>When installing virtual box on linux boxes generic headers need to be installed.</p>
+
+<ol type="a">
+<li>go to vagrantup and grab the latest version for your os</li>
+<li>install latest version</li>
+<li>install linux-generic headers suggestion by virtualbox</li>
+<li>Virtual Box</li>
+<li>Restart is necessary or same error will be thrown</li>
+</ol>
+</li>
+</ol>
+
+
+<p>More at</p>
+
+<p><a href="http://askubuntu.com/questions/171684/trouble-running-virtualbox-on-ubuntu">http://askubuntu.com/questions/171684/trouble-running-virtualbox-on-ubuntu</a></p>
+
+<h1>Using PPAs</h1>
+
+<ol>
+<li><p>Clear benefit of using PPAs instead of ones provided by linux canonical</p>
+
+<ol type="a">
+<li>most up to date version</li>
+<li>fixed anything if you are doing early_adopter/bleeding edge projects</li>
+<li>usually add once, and done</li>
+</ol>
+</li>
+</ol>
+
+
+<p>head to launchpad.net <br/>
+read technical instructions <br/>
+add that PPA for your version and flavor of linux</p>
+
+<p>sudo apt-get update <br/>
+sudo apt-get upgrade</p>
+
+<p>Either now you will have an updated version of your tool you are trying to run or you can now sudo apt-get install it</p>
+
+<h1>Mergetools</h1>
+
+<ol>
+<li>Using different mergetools whichever one you like best</li>
+</ol>
+
+
+<p>git mergetool -t xdiff3 is pretty cool.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Can't Rake Deploy? Fastforwarding]]></title>

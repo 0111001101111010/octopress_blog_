@@ -5,13 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Can't Rake Deploy? Fastforwarding - Student Developer</title>
+  <title>lessons learn hard#2 - Student Developer</title>
   <meta name="author" content="Stanley Zheng">
 
   
-  <meta name="description" content="Can't Rake Deploy? Fastforwarding Aug 25th, 2013 Migrated to a new username?
-Commited to the wrong branch?
-Branch Behind someway somehow? This &hellip;">
+  <meta name="description" content="Lessons Learn Hard#2 Aug 28th, 2013 Installing VirtualBox on Ubuntu 13.04 When installing virtual box on linux boxes generic headers need to be &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -20,7 +18,7 @@ Branch Behind someway somehow? This &hellip;">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://stanzheng.github.io/blog/2013/08/25/cant-rake-deploy-fastforwarding">
+  <link rel="canonical" href="http://stanzheng.github.io/blog/2013/08/28/lessons-learn-hard-number-2">
   <link href="/favicon.png" rel="icon">
   <link href='http://fonts.googleapis.com/css?family=Quicksand:300,400' rel='stylesheet' type='text/css'>
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
@@ -91,7 +89,7 @@ Branch Behind someway somehow? This &hellip;">
 
   <header>
   <div class="jumbotron">
-    Can't Rake Deploy? Fastforwarding
+    Lessons Learn Hard#2
 	<h5>
 
 
@@ -104,20 +102,62 @@ Branch Behind someway somehow? This &hellip;">
   
 
 
-<i class="icon-calendar-empty"></i> <time datetime="2013-08-25T21:38:00-04:00" pubdate data-updated="true">Aug 25<span>th</span>, 2013</time></h5>
+<i class="icon-calendar-empty"></i> <time datetime="2013-08-28T01:13:00-04:00" pubdate data-updated="true">Aug 28<span>th</span>, 2013</time></h5>
   </div>
 </header>
   <div class="row-fluid">
     <div class="span12">
-      <p>Migrated to a new username?
-Commited to the wrong branch?<br/>
-Branch Behind someway somehow?</p>
+      <h1>Installing VirtualBox on Ubuntu 13.04</h1>
 
-<p>This stackoverflow question suggests an easy fix by adding a + which is equivalent to a -f force push to override.</p>
+<ol>
+<li><p>When installing virtual box on linux boxes generic headers need to be installed.</p>
 
-<p>This will mess up anything you did have but its better than starting over like I had before.</p>
+<ol type="a">
+<li>go to vagrantup and grab the latest version for your os</li>
+<li>install latest version</li>
+<li>install linux-generic headers suggestion by virtualbox</li>
+<li>Virtual Box</li>
+<li>Restart is necessary or same error will be thrown</li>
+</ol>
+</li>
+</ol>
 
-<p><a href="http://stackoverflow.com/questions/17609453/rake-gen-deploy-rejected-in-octopress">http://stackoverflow.com/questions/17609453/rake-gen-deploy-rejected-in-octopress</a></p>
+
+<p>More at</p>
+
+<p><a href="http://askubuntu.com/questions/171684/trouble-running-virtualbox-on-ubuntu">http://askubuntu.com/questions/171684/trouble-running-virtualbox-on-ubuntu</a></p>
+
+<h1>Using PPAs</h1>
+
+<ol>
+<li><p>Clear benefit of using PPAs instead of ones provided by linux canonical</p>
+
+<ol type="a">
+<li>most up to date version</li>
+<li>fixed anything if you are doing early_adopter/bleeding edge projects</li>
+<li>usually add once, and done</li>
+</ol>
+</li>
+</ol>
+
+
+<p>head to launchpad.net <br/>
+read technical instructions <br/>
+add that PPA for your version and flavor of linux</p>
+
+<p>sudo apt-get update <br/>
+sudo apt-get upgrade</p>
+
+<p>Either now you will have an updated version of your tool you are trying to run or you can now sudo apt-get install it</p>
+
+<h1>Mergetools</h1>
+
+<ol>
+<li>Using different mergetools whichever one you like best</li>
+</ol>
+
+
+<p>git mergetool -t xdiff3 is pretty cool.</p>
 
     </div>
   </div>
@@ -160,10 +200,8 @@ Branch Behind someway somehow?</p>
       <div class="span12">
         <p class="meta">
           
-            <a class="basic-alignment left" href="/blog/2013/08/25/adopt-a-thing/" title="Previous Post: adopt-a-thing">&laquo; adopt-a-thing</a>
+            <a class="basic-alignment left" href="/blog/2013/08/25/cant-rake-deploy-fastforwarding/" title="Previous Post: Can't Rake Deploy? Fastforwarding">&laquo; Can't Rake Deploy? Fastforwarding</a>
           
-          
-            <a class="basic-alignment right" href="/blog/2013/08/28/lessons-learn-hard-number-2/" title="Next Post: lessons learn hard#2">lessons learn hard#2 &raquo;</a>
           
         </p>
       </div>
