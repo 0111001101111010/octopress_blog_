@@ -4,7 +4,7 @@
   <title><![CDATA[Student Developer]]></title>
   <link href="http://stanzheng.github.io/atom.xml" rel="self"/>
   <link href="http://stanzheng.github.io/"/>
-  <updated>2013-08-28T09:23:29-04:00</updated>
+  <updated>2013-09-01T14:44:13-04:00</updated>
   <id>http://stanzheng.github.io/</id>
   <author>
     <name><![CDATA[Stanley Zheng]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Lessons Learned Hard#3]]></title>
+    <link href="http://stanzheng.github.io/blog/2013/09/01/lessons-learned-hard-number-3/"/>
+    <updated>2013-09-01T14:40:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/09/01/lessons-learned-hard-number-3</id>
+    <content type="html"><![CDATA[<ol>
+<li><p>Keeps a running list of programs on your environment.</p></li>
+<li><p>Document what you did so you remember what you did months ago.
+Ended up
+&lsquo;&rsquo;&lsquo;
+git commit -a -m &ldquo;Stuff I did 5 months ago&rdquo;</p></li>
+</ol>
+
+
+<p>+3000 lines
+&lsquo;&rsquo;&lsquo;
+No way would I remember what I did in all those lines</p>
+
+<ol>
+<li>code reuse</li>
+</ol>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[RTSP is the shiz]]></title>
+    <link href="http://stanzheng.github.io/blog/2013/09/01/rtsp-is-the-shiz/"/>
+    <updated>2013-09-01T14:39:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/09/01/rtsp-is-the-shiz</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Killing it Ruby]]></title>
