@@ -4,7 +4,7 @@
   <title><![CDATA[Student Developer]]></title>
   <link href="http://stanzheng.github.io/atom.xml" rel="self"/>
   <link href="http://stanzheng.github.io/"/>
-  <updated>2013-09-01T14:44:13-04:00</updated>
+  <updated>2013-09-01T14:46:23-04:00</updated>
   <id>http://stanzheng.github.io/</id>
   <author>
     <name><![CDATA[Stanley Zheng]]></name>
@@ -43,7 +43,11 @@ No way would I remember what I did in all those lines</p>
     <link href="http://stanzheng.github.io/blog/2013/09/01/rtsp-is-the-shiz/"/>
     <updated>2013-09-01T14:39:00-04:00</updated>
     <id>http://stanzheng.github.io/blog/2013/09/01/rtsp-is-the-shiz</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>If you don&rsquo;t like the client you&rsquo;re currently using, look into seeing where the environment is receiving its data from.</p>
+
+<p>For example, most live streams utilize RTSP protocol. Grab the stream ID and plug it up into your favorite client.</p>
+
+<p>VLC is my go to &hellip; and enjoy!</p>
 ]]></content>
   </entry>
   
