@@ -7,5 +7,6 @@ sharing: true
 footer: true
 ---
 
-
+Check my linkedin for more current information.   
+This will most likely contain links for completed projects    
 Attached CV Resume thing.
