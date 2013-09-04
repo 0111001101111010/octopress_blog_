@@ -1,0 +1,232 @@
+
+Intro
+========
+
+Graph Theory
+====
+Graph Theory: pages are nodes& because of human involvement they are generally good
+
+Web Graph
+====
+random graph
+Normal / Gaussian DIstribution = Heigh Distribution  	
+
+typical web graph
+Power-Law Distribution  = Income distribution | twitter followers
+
+aquiring links more.
+Human involvement 80/20 rule 
+
+
+Small World Network 
+===========
+- Six degrees of separation 
+- Stanley Milgrim Physically mailing a letter around until it reaches someone 
+- Most pages are not neighbors but most pages acm be reached frmo others by a small number of hops
+- Many hubs- pages with many links
+-Robust for random node 
+	-Handful node only have some links 
+	 road maps, networks of brain neurons, voter networks, and social networks
+http://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Bacon_number
+
+
+Bow-Tie Structure of the Web
+============================
+Broder et.al(Graph Structure of the Web, 2000) 	
+Examine a large web graph (200M pages, 1.5B links)
+
+Looks like a giant octapus with a horn in the middle of it 
+
+In -> SCC - > OUT 
+#44m -> 56m -> 44 mil ->
+ strongly connected component
+
+
+ 75% of pages do not have a direct path from one page to another 
+
+
+ Ave distance is 16 clicks when path exists and 7 clicks when undirected path exists
+     Bi directionality 
+
+ Diameter of SCC is at least 28 (max shortest distance between any two nodes)
+ 	Any two nodes in any component is at least "28" 
+
+ DIameter of entire web is at least 500 (most distance node in IN to OUT)
+
+
+Link farms and aigen vectors. COOOL?
+
+How large is the Web?
+================
+1 trillion unique URLs
+
+Web Crawlers
+===========
+Web crawlers are used to fetch a page, place all the page's links in a queue and continue the process for each URL in the queue
+
+Problems with Web Crawling 
+======
+
+Deep web! = Dynamic, queries, or personalized
+
+stuff never findable
+Links to stuff, if google can't find it. Its not findable
+
+Surface web -> google finding not findable -> deep web 
+URI protected websites>?
+
+What counts?
+=============
+30% of the web is duplicate
+14% is spam
+
+Observations 
+-----------
+crawling a significant amount of the web is hard
+
+Capture-Recapture Method
+---------------
+Non-Invasive method to index, catch tag and come back.
+Estimated size of web in 1998 = 320 million pages
+
+Best way to count the fish in the lake-> drain the lake-> kill the fish and know
+==================
+Web Architecture
+===============
+
+Internet != web 
+
+web is a subset of the internet.
+IP = directs packets to a specific computer using an IP address
+
+Transmission TCP directs to a specific on a computer using a port numbers
+TCP
+22 - ssh
+23 -telnet
+25 -email
+80 - normal
+
+DNS
+===
+Hierarchial lookup service taht converts hostname into IP address
+URI to identify things.
+
+DNS cache poisoning
+
+RFC 
+Request for comments
+==================
+
+Representation of a resource. (URI Uniform Resource Identifiers )
+								URI VS URL?
+not GET resource => Resources getting 
+HTML representation
+
+URI = (URL + URN)
+URI = Strings of chars used to identify a name or resource on the internet
+URL - where to find a resource
+URN - name of a resource
+
+URI identify things.URI = NAME URL = Location 
+URN = subset of URI persistant never reused (social security number is a URI-> URN INFINIATE PERSISTANCE)
+
+
+scheme - protocol kind of not really
+rewrite rules 
+Q = query
+
+
+GET
+=====
+talking to daemons coming from the softwares
+1.1 speaks HTTP/1.1
+METHOD WHERE SPEAKER
+
+Connection: close -> hanging up
+Host: cs.odu.edu -> waiting for a return
+
+META DATA is header information
+
+Content types are helping interpret requests
+
+
+HEAD 
+=======
+head is a probe not a commit to look
+testing web servers
+
+Options
+=======
+Allow tells you all these
+WebDav is poopie bunch of defined options
+
+Remote procedure calls vs Rest
+===================
+URI nouns
+Methods verbs
+Content-Type: text/plain <ENTITY HEADERS
+content-length: 10
+
+Response heads
+====
+1xx information
+2xx success understood
+3xx redirection
+4..client error yo umised up
+5xx server codes
+
+501-> stupid dont knows
+301-> moved permently
+303-> see othertheres this sending to other
+410-> dead gone forward
+
+ASCII bite values
+
+Representation is not the resource
+===========
+URI -> Resource Representation 2 > content negotations
+
+Cool URI don't change. <- doesn't have an extention
+turn off content-negotiation for speed
+
+I HAVE A URI it is a person catalog or something
+Sever figuring it out
+Content view Multiview = content negotiation
+
+Accept = the image grabbing
+
+
+Accept
+===========
+png = "pings"
+q values = quality values
+
+
+encodings vs mime types
+
+406 = do not know not acceptable can't get
+
+q=0.0 quaity value is give me this else nothing
+
+html entity is not content
+
+
+Soclipsism & Content Negotiation
+==========================
+solipsism - my mind only exists -> 
+possible content negotiation
+
+User Agents
+Vary things: Accept-Endoing,X-Forward-Protoco, Cookie, User-Agent
+-A "iphone" for like who is the useragent -> client
+
+Content negotiation in the dimension of time
+
+
+Assignments
+===========
+September 12th
+
+Args 3 
+
+School, time URI third argument
