@@ -4,7 +4,7 @@
   <title><![CDATA[Student Developer]]></title>
   <link href="http://stanzheng.github.io/atom.xml" rel="self"/>
   <link href="http://stanzheng.github.io/"/>
-  <updated>2013-09-03T23:38:56-04:00</updated>
+  <updated>2013-09-06T18:07:24-04:00</updated>
   <id>http://stanzheng.github.io/</id>
   <author>
     <name><![CDATA[Stanley Zheng]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Do something meaningful this week]]></title>
+    <link href="http://stanzheng.github.io/blog/2013/09/06/do-something-meaningful-this-week/"/>
+    <updated>2013-09-06T18:07:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/09/06/do-something-meaningful-this-week</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[case sensitivity]]></title>
+    <link href="http://stanzheng.github.io/blog/2013/09/06/case-sensitivity/"/>
+    <updated>2013-09-06T17:58:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/09/06/case-sensitivity</id>
+    <content type="html"><![CDATA[<p>so yeah tweet from @travisjwebb on twitter.</p>
+
+<p>Was wondering why a gh-page was taking an eternity and a half to show up.</p>
+
+<p>i had named the repo Axxx.github.io. the browser redirects it to axxx.github.io.</p>
+
+<p>&lsquo;&rsquo;&lsquo; @travisjwebb
+Don&rsquo;t be such a human: A=65, a=97. trivially, 65 != 97. Distill abstraction into truth. The maths reveal all #computerSCIENCE
+&rsquo;&lsquo;&rsquo;   <br/>
+Yeah&hellip;</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Lessons Learned Hard#3]]></title>
