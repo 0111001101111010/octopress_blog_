@@ -13,7 +13,7 @@ Was wondering why a gh-page was taking an eternity and a half to show up.
 i had named the repo Axxx.github.io. the browser redirects it to axxx.github.io.	
 
 
-''' @travisjwebb
-Don't be such a human: A=65, a=97. trivially, 65 != 97. Distill abstraction into truth. The maths reveal all #computerSCIENCE 
+'''
+@travisjwebb Don't be such a human: A=65, a=97. trivially, 65 != 97. Distill abstraction into truth. The maths reveal all #computerSCIENCE 
 ''' 	
 Yeah... 	
