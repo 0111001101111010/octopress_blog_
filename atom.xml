@@ -4,7 +4,7 @@
   <title><![CDATA[Student Developer]]></title>
   <link href="http://stanzheng.github.io/atom.xml" rel="self"/>
   <link href="http://stanzheng.github.io/"/>
-  <updated>2013-09-07T22:23:36-04:00</updated>
+  <updated>2013-09-09T20:50:49-04:00</updated>
   <id>http://stanzheng.github.io/</id>
   <author>
     <name><![CDATA[Stanley Zheng]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[apache2 and userdir]]></title>
+    <link href="http://stanzheng.github.io/blog/2013/09/09/apache2-and-userdir/"/>
+    <updated>2013-09-09T20:49:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/09/09/apache2-and-userdir</id>
+    <content type="html"><![CDATA[<p>Follow these instructions explicitly for Ubuntu 12.04</p>
+
+<p><a href="http://ubuntuserverguide.com/2012/10/how-to-enable-and-configure-apache2-userdir-module-in-ubuntu-server-12-04.html">http://ubuntuserverguide.com/2012/10/how-to-enable-and-configure-apache2-userdir-module-in-ubuntu-server-12-04.html</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The value of data for urban planning]]></title>
@@ -810,15 +821,6 @@ A self composed series of don&#8217;ts learned through experience and serious an
     <updated>2013-08-19T19:12:00-04:00</updated>
     <id>http://stanzheng.github.io/blog/2013/08/19/hipsterish-blog-title</id>
     <content type="html"><![CDATA[<p>Angry text about topics and life!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[thanks Alex Garlbay for the wicked theme]]></title>
-    <link href="http://stanzheng.github.io/blog/2013/08/19/thanks-alex-garlbay-for-the-wicked-theme/"/>
-    <updated>2013-08-19T19:11:00-04:00</updated>
-    <id>http://stanzheng.github.io/blog/2013/08/19/thanks-alex-garlbay-for-the-wicked-theme</id>
-    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
