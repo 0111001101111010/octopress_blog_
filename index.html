@@ -9,7 +9,7 @@
   <meta name="author" content="Stanley Zheng">
 
   
-  <meta name="description" content="Hi. I&#8217;m Stanley Zheng. Here are some thoughts of mine. Sep 9th, 2013 apache2 and userdir Follow these instructions explicitly for Ubuntu 12.04 &hellip;">
+  <meta name="description" content="Hi. I&#8217;m Stanley Zheng. Here are some thoughts of mine. Sep 10th, 2013 Rails:restart your app Rails tips: If you migrated your database or &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -93,6 +93,81 @@
 
 <div class="blog-index">
   
+  
+  
+    <article>
+      
+
+  <div class="row-fluid">
+    <div class="span2">
+		<h1 class="date-time">
+
+
+
+
+
+
+
+
+  
+
+
+<i class="icon-calendar-empty"></i> <time datetime="2013-09-10T01:16:00-04:00" pubdate data-updated="true">Sep 10<span>th</span>, 2013</time></h5>
+          <div class="row-fluid">
+          
+          </div>
+          
+          <div class="row-fluid">
+          
+          </div>
+          
+    </div>
+    <div class="span10">
+      <h1 class="link"><a href="/blog/2013/09/10/rails-restart-your-app/">Rails:restart your app</a></h1>
+      <p>Rails tips:</p>
+
+<p>If you migrated your database or changed your schema. Before flipping out about errors like and why it doesn&rsquo;t work. Restart your app</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>ActiveRecord::PendingMigrationError </span></code></pre></td></tr></table></div></figure>
+
+
+<p>Also if you generated the wrong named controller try to keep it clean..</p>
+
+<p>Also.. SQLITE3 &ndash;_&ndash;;&mdash;</p>
+
+<p><strong><em>deploying to heroku</em></strong></p>
+
+<p>Do not forget to commit your changes to your branch before pushing your branch to heroku..</p>
+
+<p>Do not</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>git push heroku master
+</span><span class='line'>
+</span><span class='line'>#until you do this on your deployment/master branch
+</span><span class='line'>
+</span><span class='line'>git add . 
+</span><span class='line'>git commit -m "my commit"
+</span></code></pre></td></tr></table></div></figure>
+
+
+      
+      
+    </div>
+  </div>
+
+
+
+    </article>
+    
+    <hr>
+    
   
   
     <article>
@@ -1049,73 +1124,6 @@ Branch Behind someway somehow?</p>
 <p>This will mess up anything you did have but its better than starting over like I had before.</p>
 
 <p><a href="http://stackoverflow.com/questions/17609453/rake-gen-deploy-rejected-in-octopress">http://stackoverflow.com/questions/17609453/rake-gen-deploy-rejected-in-octopress</a></p>
-
-      
-      
-    </div>
-  </div>
-
-
-
-    </article>
-    
-    <hr>
-    
-  
-  
-    <article>
-      
-
-  <div class="row-fluid">
-    <div class="span2">
-		<h1 class="date-time">
-
-
-
-
-
-
-
-
-  
-
-
-<i class="icon-calendar-empty"></i> <time datetime="2013-08-25T16:11:00-04:00" pubdate data-updated="true">Aug 25<span>th</span>, 2013</time></h5>
-          <div class="row-fluid">
-          
-          </div>
-          
-          <div class="row-fluid">
-          
-          <a href="/blog/categories/github/"><span class="badge">github</span></a>
-          
-          </div>
-          
-    </div>
-    <div class="span10">
-      <h1 class="link"><a href="/blog/2013/08/25/adopt-a-thing/">adopt-a-thing</a></h1>
-      <h1>Why</h1>
-
-<p>One of my projects that I took interested in with CodeforAmerica is the adopt-a-hydrant project.
-A solution introduced by CodeforBoston to solve unsafe frozen fire hydrants during the winter.
-Allowing citizens to be aware of important and streamlining the process is a reoccuring theme with this project.</p>
-
-<p>I am trying to localize it for Norfolk and the <a href="http://www.norfolkbeautiful.org/">http://www.norfolkbeautiful.org/</a> and Adopt-A-Spot Programs. Stream lining how this project takes place, encourages youth to get more active and showcase the efforts of volunteers. We can spatial recognize the hot zones where people are cleaning, and effeciently examine other areas of need.</p>
-
-<p>my adopt-a-spot repo <a href="https://github.com/stanzheng/adopt-a-hydrant">https://github.com/stanzheng/adopt-a-hydrant</a></p>
-
-<h1>Localization</h1>
-
-<p>I had trouble with localization. After I got it set up, I was thinking how do I load my info into it. These four commits by @benschoenfeld to the c4hrva codeforamerica brigade repo helped me out.</p>
-
-<p><a href="https://github.com/c4hrva/adopt-a-spot/commits/master">https://github.com/c4hrva/adopt-a-spot/commits/master</a></p>
-
-<ol>
-<li>Change UI</li>
-<li>Change ReadME</li>
-<li>Add Data</li>
-</ol>
-
 
       
       
