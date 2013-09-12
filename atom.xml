@@ -4,7 +4,7 @@
   <title><![CDATA[Student Developer]]></title>
   <link href="http://stanzheng.github.io/atom.xml" rel="self"/>
   <link href="http://stanzheng.github.io/"/>
-  <updated>2013-09-10T01:19:26-04:00</updated>
+  <updated>2013-09-11T23:26:18-04:00</updated>
   <id>http://stanzheng.github.io/</id>
   <author>
     <name><![CDATA[Stanley Zheng]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Push yourself and be rewarded]]></title>
+    <link href="http://stanzheng.github.io/blog/2013/09/11/push-yourself-and-be-rewarded/"/>
+    <updated>2013-09-11T23:26:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/09/11/push-yourself-and-be-rewarded</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Rails:restart your app]]></title>
@@ -50,6 +59,8 @@
 </span><span class='line'>git commit -m "my commit"
 </span></code></pre></td></tr></table></div></figure>
 
+
+<p></p>
 ]]></content>
   </entry>
   
@@ -843,15 +854,6 @@ A self composed series of don&#8217;ts learned through experience and serious an
     <updated>2013-08-19T19:12:00-04:00</updated>
     <id>http://stanzheng.github.io/blog/2013/08/19/pretty-fly-for-a-rye-guy</id>
     <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[No rest for the wicked]]></title>
-    <link href="http://stanzheng.github.io/blog/2013/08/19/no-rest-for-the-wicked/"/>
-    <updated>2013-08-19T19:12:00-04:00</updated>
-    <id>http://stanzheng.github.io/blog/2013/08/19/no-rest-for-the-wicked</id>
-    <content type="html"><![CDATA[<p>content: hello dolly</p>
 ]]></content>
   </entry>
   
