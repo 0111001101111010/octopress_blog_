@@ -4,7 +4,7 @@
   <title><![CDATA[Student Developer]]></title>
   <link href="http://stanzheng.github.io/atom.xml" rel="self"/>
   <link href="http://stanzheng.github.io/"/>
-  <updated>2013-09-11T23:26:18-04:00</updated>
+  <updated>2013-09-14T20:01:36-04:00</updated>
   <id>http://stanzheng.github.io/</id>
   <author>
     <name><![CDATA[Stanley Zheng]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Markdown: the best way to take notes from a college nub']]></title>
+    <link href="http://stanzheng.github.io/blog/2013/09/14/markdown-the-best-way-to-take-notes-from-a-college-nub/"/>
+    <updated>2013-09-14T20:01:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/09/14/markdown-the-best-way-to-take-notes-from-a-college-nub</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Dart: Web Programming of the Future]]></title>
+    <link href="http://stanzheng.github.io/blog/2013/09/14/dart-web-programming-of-the-future/"/>
+    <updated>2013-09-14T20:00:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/09/14/dart-web-programming-of-the-future</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[So you want to EC2 right..]]></title>
+    <link href="http://stanzheng.github.io/blog/2013/09/14/so-you-want-to-ec2-right-dot/"/>
+    <updated>2013-09-14T19:59:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/09/14/so-you-want-to-ec2-right-dot</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Push yourself and be rewarded]]></title>
@@ -827,33 +854,6 @@ A self composed series of don&#8217;ts learned through experience and serious an
 <h1>Ways to help you not F*** up</h1>
 
 <p>Let the anger begin.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Biggest No-No: Dont Commit to Master]]></title>
-    <link href="http://stanzheng.github.io/blog/2013/08/19/biggest-no-no-dont-commit-to-master/"/>
-    <updated>2013-08-19T23:07:00-04:00</updated>
-    <id>http://stanzheng.github.io/blog/2013/08/19/biggest-no-no-dont-commit-to-master</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Patrick Ryans a Nice Dude]]></title>
-    <link href="http://stanzheng.github.io/blog/2013/08/19/patrick-ryans-a-nice-dude/"/>
-    <updated>2013-08-19T20:09:00-04:00</updated>
-    <id>http://stanzheng.github.io/blog/2013/08/19/patrick-ryans-a-nice-dude</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Pretty Fly for a Rye Guy]]></title>
-    <link href="http://stanzheng.github.io/blog/2013/08/19/pretty-fly-for-a-rye-guy/"/>
-    <updated>2013-08-19T19:12:00-04:00</updated>
-    <id>http://stanzheng.github.io/blog/2013/08/19/pretty-fly-for-a-rye-guy</id>
-    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
