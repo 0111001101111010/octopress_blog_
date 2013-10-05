@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Student Developer]]></title>
+<<<<<<< HEAD
+  <link href="http://stanzheng.github.io/atom.xml" rel="self"/>
+  <link href="http://stanzheng.github.io/"/>
+  <updated>2013-08-25T16:20:05-04:00</updated>
+  <id>http://stanzheng.github.io/</id>
+=======
+  <link href="http://stanzheng.github.io/atom.xml" rel="self"/>
+  <link href="http://stanzheng.github.io/"/>
+  <updated>2013-09-14T21:11:05-04:00</updated>
+  <id>http://stanzheng.github.io/</id>
+>>>>>>> 3af2aef5b17adfbcb5367a5f4a48144b47da27fe
+  <author>
+    <name><![CDATA[Stanley Zheng]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+<<<<<<< HEAD
+=======
+    <title type="html"><![CDATA[Markdown: the best way to take notes from a college nub']]></title>
+    <link href="http://stanzheng.github.io/blog/2013/09/14/markdown-the-best-way-to-take-notes-from-a-college-nub/"/>
+    <updated>2013-09-14T20:01:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/09/14/markdown-the-best-way-to-take-notes-from-a-college-nub</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Dart: Web Programming of the Future]]></title>
+    <link href="http://stanzheng.github.io/blog/2013/09/14/dart-web-programming-of-the-future/"/>
+    <updated>2013-09-14T20:00:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/09/14/dart-web-programming-of-the-future</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[So you want to EC2 right..]]></title>
+    <link href="http://stanzheng.github.io/blog/2013/09/14/so-you-want-to-ec2-right-dot/"/>
+    <updated>2013-09-14T19:59:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/09/14/so-you-want-to-ec2-right-dot</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Push yourself and be rewarded]]></title>
+    <link href="http://stanzheng.github.io/blog/2013/09/11/push-yourself-and-be-rewarded/"/>
+    <updated>2013-09-11T23:26:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/09/11/push-yourself-and-be-rewarded</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Rails:restart your app]]></title>
+    <link href="http://stanzheng.github.io/blog/2013/09/10/rails-restart-your-app/"/>
+    <updated>2013-09-10T01:16:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/09/10/rails-restart-your-app</id>
+    <content type="html"><![CDATA[<p>Rails tips:</p>
+
+<p>If you migrated your database or changed your schema. Before flipping out about errors like and why it doesn&rsquo;t work. Restart your app</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>ActiveRecord::PendingMigrationError </span></code></pre></td></tr></table></div></figure>
+
+
+<p>Also if you generated the wrong named controller try to keep it clean..</p>
+
+<p>Also.. SQLITE3 &ndash;_&ndash;;&mdash;</p>
+
+<p><strong><em>deploying to heroku</em></strong></p>
+
+<p>Do not forget to commit your changes to your branch before pushing your branch to heroku..</p>
+
+<p>Do not</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>git push heroku master
+</span><span class='line'>
+</span><span class='line'>#until you do this on your deployment/master branch
+</span><span class='line'>
+</span><span class='line'>git add . 
+</span><span class='line'>git commit -m "my commit"
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[apache2 and userdir]]></title>
+    <link href="http://stanzheng.github.io/blog/2013/09/09/apache2-and-userdir/"/>
+    <updated>2013-09-09T20:49:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/09/09/apache2-and-userdir</id>
+    <content type="html"><![CDATA[<p>Follow these instructions explicitly for Ubuntu 12.04</p>
+
+<p><a href="http://ubuntuserverguide.com/2012/10/how-to-enable-and-configure-apache2-userdir-module-in-ubuntu-server-12-04.html">http://ubuntuserverguide.com/2012/10/how-to-enable-and-configure-apache2-userdir-module-in-ubuntu-server-12-04.html</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The value of data for urban planning]]></title>
+    <link href="http://stanzheng.github.io/blog/2013/09/07/the-value-of-data-for-urban-planning/"/>
+    <updated>2013-09-07T22:13:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/09/07/the-value-of-data-for-urban-planning</id>
+    <content type="html"><![CDATA[<h1>Urban Planners meet Grass Roots</h1>
+
+<p>What do urban planners value when they look at revitalizing older neighborhoods?  <br/>
+What do municalities deem as credible or notable indexes to decide what gets fixed?   <br/>
+How do local communities find the right people to take a plunge?</p>
+
+<p>Here is a copy paste of a list from Jason at Better Block project as useful indexes..</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
+<span class='line-number'>21</span>
+<span class='line-number'>22</span>
+<span class='line-number'>23</span>
+<span class='line-number'>24</span>
+<span class='line-number'>25</span>
+<span class='line-number'>26</span>
+<span class='line-number'>27</span>
+<span class='line-number'>28</span>
+<span class='line-number'>29</span>
+<span class='line-number'>30</span>
+<span class='line-number'>31</span>
+<span class='line-number'>32</span>
+<span class='line-number'>33</span>
+<span class='line-number'>34</span>
+<span class='line-number'>35</span>
+<span class='line-number'>36</span>
+<span class='line-number'>37</span>
+<span class='line-number'>38</span>
+<span class='line-number'>39</span>
+<span class='line-number'>40</span>
+<span class='line-number'>41</span>
+<span class='line-number'>42</span>
+<span class='line-number'>43</span>
+<span class='line-number'>44</span>
+<span class='line-number'>45</span>
+<span class='line-number'>46</span>
+<span class='line-number'>47</span>
+<span class='line-number'>48</span>
+<span class='line-number'>49</span>
+<span class='line-number'>50</span>
+<span class='line-number'>51</span>
+<span class='line-number'>52</span>
+<span class='line-number'>53</span>
+<span class='line-number'>54</span>
+<span class='line-number'>55</span>
+<span class='line-number'>56</span>
+<span class='line-number'>57</span>
+<span class='line-number'>58</span>
+<span class='line-number'>59</span>
+<span class='line-number'>60</span>
+<span class='line-number'>61</span>
+<span class='line-number'>62</span>
+<span class='line-number'>63</span>
+<span class='line-number'>64</span>
+<span class='line-number'>65</span>
+<span class='line-number'>66</span>
+<span class='line-number'>67</span>
+<span class='line-number'>68</span>
+<span class='line-number'>69</span>
+<span class='line-number'>70</span>
+<span class='line-number'>71</span>
+<span class='line-number'>72</span>
+<span class='line-number'>73</span>
+<span class='line-number'>74</span>
+<span class='line-number'>75</span>
+<span class='line-number'>76</span>
+<span class='line-number'>77</span>
+<span class='line-number'>78</span>
+<span class='line-number'>79</span>
+<span class='line-number'>80</span>
+<span class='line-number'>81</span>
+<span class='line-number'>82</span>
+<span class='line-number'>83</span>
+<span class='line-number'>84</span>
+<span class='line-number'>85</span>
+<span class='line-number'>86</span>
+<span class='line-number'>87</span>
+<span class='line-number'>88</span>
+<span class='line-number'>89</span>
+<span class='line-number'>90</span>
+<span class='line-number'>91</span>
+<span class='line-number'>92</span>
+<span class='line-number'>93</span>
+<span class='line-number'>94</span>
+<span class='line-number'>95</span>
+<span class='line-number'>96</span>
+<span class='line-number'>97</span>
+<span class='line-number'>98</span>
+<span class='line-number'>99</span>
+<span class='line-number'>100</span>
+<span class='line-number'>101</span>
+<span class='line-number'>102</span>
+<span class='line-number'>103</span>
+<span class='line-number'>104</span>
+<span class='line-number'>105</span>
+<span class='line-number'>106</span>
+<span class='line-number'>107</span>
+<span class='line-number'>108</span>
+<span class='line-number'>109</span>
+<span class='line-number'>110</span>
+<span class='line-number'>111</span>
+<span class='line-number'>112</span>
+<span class='line-number'>113</span>
+<span class='line-number'>114</span>
+<span class='line-number'>115</span>
+<span class='line-number'>116</span>
+<span class='line-number'>117</span>
+<span class='line-number'>118</span>
+<span class='line-number'>119</span>
+<span class='line-number'>120</span>
+<span class='line-number'>121</span>
+<span class='line-number'>122</span>
+<span class='line-number'>123</span>
+<span class='line-number'>124</span>
+<span class='line-number'>125</span>
+<span class='line-number'>126</span>
+<span class='line-number'>127</span>
+<span class='line-number'>128</span>
+<span class='line-number'>129</span>
+<span class='line-number'>130</span>
+<span class='line-number'>131</span>
+<span class='line-number'>132</span>
+<span class='line-number'>133</span>
+<span class='line-number'>134</span>
+<span class='line-number'>135</span>
+<span class='line-number'>136</span>
+<span class='line-number'>137</span>
+<span class='line-number'>138</span>
+<span class='line-number'>139</span>
+<span class='line-number'>140</span>
+<span class='line-number'>141</span>
+<span class='line-number'>142</span>
+<span class='line-number'>143</span>
+<span class='line-number'>144</span>
+<span class='line-number'>145</span>
+<span class='line-number'>146</span>
+<span class='line-number'>147</span>
+<span class='line-number'>148</span>
+<span class='line-number'>149</span>
+<span class='line-number'>150</span>
+<span class='line-number'>151</span>
+<span class='line-number'>152</span>
+<span class='line-number'>153</span>
+<span class='line-number'>154</span>
+<span class='line-number'>155</span>
+<span class='line-number'>156</span>
+<span class='line-number'>157</span>
+<span class='line-number'>158</span>
+<span class='line-number'>159</span>
+<span class='line-number'>160</span>
+<span class='line-number'>161</span>
+<span class='line-number'>162</span>
+<span class='line-number'>163</span>
+<span class='line-number'>164</span>
+<span class='line-number'>165</span>
+<span class='line-number'>166</span>
+<span class='line-number'>167</span>
+<span class='line-number'>168</span>
+<span class='line-number'>169</span>
+<span class='line-number'>170</span>
+<span class='line-number'>171</span>
+<span class='line-number'>172</span>
+<span class='line-number'>173</span>
+<span class='line-number'>174</span>
+<span class='line-number'>175</span>
+<span class='line-number'>176</span>
+<span class='line-number'>177</span>
+<span class='line-number'>178</span>
+<span class='line-number'>179</span>
+<span class='line-number'>180</span>
+<span class='line-number'>181</span>
+<span class='line-number'>182</span>
+<span class='line-number'>183</span>
+<span class='line-number'>184</span>
+<span class='line-number'>185</span>
+<span class='line-number'>186</span>
+<span class='line-number'>187</span>
+<span class='line-number'>188</span>
+<span class='line-number'>189</span>
+<span class='line-number'>190</span>
+<span class='line-number'>191</span>
+<span class='line-number'>192</span>
+<span class='line-number'>193</span>
+<span class='line-number'>194</span>
+<span class='line-number'>195</span>
+<span class='line-number'>196</span>
+<span class='line-number'>197</span>
+<span class='line-number'>198</span>
+<span class='line-number'>199</span>
+<span class='line-number'>200</span>
+<span class='line-number'>201</span>
+<span class='line-number'>202</span>
+<span class='line-number'>203</span>
+<span class='line-number'>204</span>
+<span class='line-number'>205</span>
+<span class='line-number'>206</span>
+<span class='line-number'>207</span>
+<span class='line-number'>208</span>
+<span class='line-number'>209</span>
+<span class='line-number'>210</span>
+<span class='line-number'>211</span>
+<span class='line-number'>212</span>
+<span class='line-number'>213</span>
+<span class='line-number'>214</span>
+<span class='line-number'>215</span>
+<span class='line-number'>216</span>
+<span class='line-number'>217</span>
+<span class='line-number'>218</span>
+<span class='line-number'>219</span>
+<span class='line-number'>220</span>
+<span class='line-number'>221</span>
+<span class='line-number'>222</span>
+<span class='line-number'>223</span>
+<span class='line-number'>224</span>
+<span class='line-number'>225</span>
+<span class='line-number'>226</span>
+<span class='line-number'>227</span>
+<span class='line-number'>228</span>
+<span class='line-number'>229</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>Better Block Metrics and Reporting Tools
+</span><span class='line'>
+</span><span class='line'>Metrics to gather
+</span><span class='line'>
+</span><span class='line'>Tuning the street for desired results
+</span><span class='line'>
+</span><span class='line'>Quantitative
+</span><span class='line'>
+</span><span class='line'>- Vacant store fronts
+</span><span class='line'>
+</span><span class='line'>- Block sales tax revenue
+</span><span class='line'>
+</span><span class='line'>- Traffic speeds
+</span><span class='line'>
+</span><span class='line'>- Traffic decibles
+</span><span class='line'>
+</span><span class='line'>- Chicanes
+</span><span class='line'>
+</span><span class='line'>- Crosswalks
+</span><span class='line'>
+</span><span class='line'>- Bulb outs
+</span><span class='line'>
+</span><span class='line'>- Bollards
+</span><span class='line'>
+</span><span class='line'>- Pedestrian islands
+</span><span class='line'>
+</span><span class='line'>- Active merchants association
+</span><span class='line'>
+</span><span class='line'>- Residential units
+</span><span class='line'>
+</span><span class='line'>- Commercial units
+</span><span class='line'>
+</span><span class='line'>- Block Event Programming
+</span><span class='line'>
+</span><span class='line'>- Pedestrian traffic
+</span><span class='line'>
+</span><span class='line'>  - Children
+</span><span class='line'>
+</span><span class='line'>  - Adults
+</span><span class='line'>
+</span><span class='line'>- M/F
+</span><span class='line'>
+</span><span class='line'>- Single / Couples / Groups
+</span><span class='line'>
+</span><span class='line'>  - Elderly
+</span><span class='line'>
+</span><span class='line'>- M/F
+</span><span class='line'>
+</span><span class='line'>- Single / Couples / Groups
+</span><span class='line'>
+</span><span class='line'>- Bicycle traffic
+</span><span class='line'>
+</span><span class='line'>- Bike parking
+</span><span class='line'>
+</span><span class='line'>- Bike Infrastructure
+</span><span class='line'>
+</span><span class='line'>- Indoor food vendors
+</span><span class='line'>
+</span><span class='line'>- Outdoor food vendors
+</span><span class='line'>
+</span><span class='line'>- Cafe seating
+</span><span class='line'>
+</span><span class='line'>- Lingering
+</span><span class='line'>
+</span><span class='line'>- Benches
+</span><span class='line'>
+</span><span class='line'>- Trees
+</span><span class='line'>
+</span><span class='line'>- Trash cans
+</span><span class='line'>
+</span><span class='line'>- Public Markets
+</span><span class='line'>
+</span><span class='line'>- Wayfinding signage
+</span><span class='line'>
+</span><span class='line'>- Murals
+</span><span class='line'>
+</span><span class='line'>- Public Art
+</span><span class='line'>
+</span><span class='line'>- Public Space
+</span><span class='line'>
+</span><span class='line'>- Playground facilities
+</span><span class='line'>
+</span><span class='line'>- Water fountains
+</span><span class='line'>
+</span><span class='line'>- Crime
+</span><span class='line'>
+</span><span class='line'>- Home sales in surrounding area
+</span><span class='line'>
+</span><span class='line'>  - Avg. price
+</span><span class='line'>
+</span><span class='line'>  - # of days on market
+</span><span class='line'>
+</span><span class='line'>- Building sales
+</span><span class='line'>
+</span><span class='line'>  - Avg. price
+</span><span class='line'>
+</span><span class='line'>  - # of days on market
+</span><span class='line'>
+</span><span class='line'>- Leases
+</span><span class='line'>
+</span><span class='line'>- Funds for public space maintenance/admin
+</span><span class='line'>
+</span><span class='line'>- Positive press stories
+</span><span class='line'>
+</span><span class='line'>- Negative press stories
+</span><span class='line'>
+</span><span class='line'>- Hashtags for place
+</span><span class='line'>
+</span><span class='line'>- Local businesses
+</span><span class='line'>
+</span><span class='line'>   - Hours of business operation
+</span><span class='line'>
+</span><span class='line'>   - Community involvement
+</span><span class='line'>
+</span><span class='line'>- Franchised businesses
+</span><span class='line'>
+</span><span class='line'>   - Hours of business operation
+</span><span class='line'>
+</span><span class='line'>   - Community involvement
+</span><span class='line'>
+</span><span class='line'>- Local property ownership
+</span><span class='line'>
+</span><span class='line'>- Ratio of affordable housing
+</span><span class='line'>
+</span><span class='line'>- CO2 levels
+</span><span class='line'>
+</span><span class='line'>- Existing infrastructure maintenance costs
+</span><span class='line'>
+</span><span class='line'>- Change in infrastructure maintenance costs
+</span><span class='line'>
+</span><span class='line'>- Water features
+</span><span class='line'>
+</span><span class='line'>- Kiosks
+</span><span class='line'>
+</span><span class='line'>- Public transit stops
+</span><span class='line'>
+</span><span class='line'>- Invitations for artists (stages, market stalls)
+</span><span class='line'>
+</span><span class='line'>- Beergardens
+</span><span class='line'>
+</span><span class='line'>- Dog parks
+</span><span class='line'>
+</span><span class='line'>- Dog facilities
+</span><span class='line'>
+</span><span class='line'>- Public restrooms
+</span><span class='line'>
+</span><span class='line'>- Parking
+</span><span class='line'>
+</span><span class='line'>- Outdoor games
+</span><span class='line'>
+</span><span class='line'>- Blade signs
+</span><span class='line'>
+</span><span class='line'>- Bulletin boards
+</span><span class='line'>
+</span><span class='line'>- People taking pictures
+</span><span class='line'>
+</span><span class='line'>- Sidewalk lighting
+</span><span class='line'>
+</span><span class='line'>- Width of street
+</span><span class='line'>
+</span><span class='line'>- Width of sidewalk
+</span><span class='line'>
+</span><span class='line'>- Width of building
+</span><span class='line'>
+</span><span class='line'>- Square footage of commercial building space
+</span><span class='line'>
+</span><span class='line'>- Lease price/sqft
+</span><span class='line'>
+</span><span class='line'>- Number of business who carry locally/regionally made products
+</span><span class='line'>
+</span><span class='line'>- Clocks
+</span><span class='line'>
+</span><span class='line'>- Business owner lifecycle
+</span><span class='line'>
+</span><span class='line'>- Property owner lifecycle
+</span><span class='line'>
+</span><span class='line'>- Price for business permit
+</span><span class='line'>
+</span><span class='line'>- Property tax
+</span><span class='line'>
+</span><span class='line'>- Demographics
+</span><span class='line'>
+</span><span class='line'>- Visitors
+</span><span class='line'>
+</span><span class='line'>- Residents
+</span><span class='line'>
+</span><span class='line'>- Block/District website
+</span><span class='line'>
+</span><span class='line'>- Block/District Facebook Page
+</span><span class='line'>
+</span><span class='line'>- Block/District Twitter
+</span><span class='line'>
+</span><span class='line'>- diversity, age and race
+</span><span class='line'>
+</span><span class='line'>- ratio cars/people space
+</span><span class='line'>
+</span><span class='line'>- yearly %change in parking
+</span><span class='line'>
+</span><span class='line'>Qualitative
+</span><span class='line'>
+</span><span class='line'>- Names of neighbors
+</span><span class='line'>
+</span><span class='line'>- Neighborhood gatherings
+</span><span class='line'>
+</span><span class='line'>- Romantic ambience
+</span><span class='line'>
+</span><span class='line'>- Perception of safety
+</span><span class='line'>
+</span><span class='line'>- Public space design
+</span><span class='line'>
+</span><span class='line'>- Business design
+</span><span class='line'>
+</span><span class='line'>- Quality of goods sold
+</span><span class='line'>
+</span><span class='line'>- Unique neighborhood identity (ref. food, history, art, design)
+</span><span class='line'>
+</span><span class='line'>- Pride in place
+</span><span class='line'>
+</span><span class='line'>- semi-regular street performance
+</span><span class='line'>
+</span><span class='line'>- Third Places
+</span><span class='line'>
+</span><span class='line'>- Daylife
+</span><span class='line'>
+</span><span class='line'>- Nightlife
+</span><span class='line'>
+</span><span class='line'>- Neighborhood branded products
+</span><span class='line'>
+</span><span class='line'>- Quality of multi-modal connections to adjacent Districts
+</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Do something meaningful this week]]></title>
+    <link href="http://stanzheng.github.io/blog/2013/09/06/do-something-meaningful-this-week/"/>
+    <updated>2013-09-06T18:07:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/09/06/do-something-meaningful-this-week</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[case sensitivity]]></title>
+    <link href="http://stanzheng.github.io/blog/2013/09/06/case-sensitivity/"/>
+    <updated>2013-09-06T17:58:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/09/06/case-sensitivity</id>
+    <content type="html"><![CDATA[<p>so yeah tweet from @travisjwebb on twitter.</p>
+
+<p>Was wondering why a gh-page was taking an eternity and a half to show up.</p>
+
+<p>i had named the repo Axxx.github.io. the browser redirects it to axxx.github.io.</p>
+
+<p>&lsquo;&rsquo;&lsquo;
+@travisjwebb Don&rsquo;t be such a human: A=65, a=97. trivially, 65 != 97. Distill abstraction into truth. The maths reveal all #computerSCIENCE
+&rsquo;&lsquo;&rsquo;   <br/>
+Yeah&hellip;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Lessons Learned Hard#3]]></title>
+    <link href="http://stanzheng.github.io/blog/2013/09/01/lessons-learned-hard-number-3/"/>
+    <updated>2013-09-01T14:40:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/09/01/lessons-learned-hard-number-3</id>
+    <content type="html"><![CDATA[<ol>
+<li><p>Keeps a running list of programs on your environment.</p></li>
+<li><p>Document what you did so you remember what you did months ago.
+Ended up
+&lsquo;&rsquo;&lsquo;
+git commit -a -m &ldquo;Stuff I did 5 months ago&rdquo;</p></li>
+</ol>
+
+
+<p>+3000 lines
+&lsquo;&rsquo;&lsquo;
+No way would I remember what I did in all those lines</p>
+
+<ol>
+<li>code reuse</li>
+</ol>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[RTSP is the shiz]]></title>
+    <link href="http://stanzheng.github.io/blog/2013/09/01/rtsp-is-the-shiz/"/>
+    <updated>2013-09-01T14:39:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/09/01/rtsp-is-the-shiz</id>
+    <content type="html"><![CDATA[<p>If you don&rsquo;t like the client you&rsquo;re currently using, look into seeing where the environment is receiving its data from.</p>
+
+<p>For example, most live streams utilize RTSP protocol. Grab the stream ID and plug it up into your favorite client.</p>
+
+<p>VLC is my go to &hellip; and enjoy!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Killing it Ruby]]></title>
+    <link href="http://stanzheng.github.io/blog/2013/08/28/killing-it-ruby/"/>
+    <updated>2013-08-28T09:21:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/08/28/killing-it-ruby</id>
+    <content type="html"><![CDATA[<p>Creating a page for each language link is probably helpful to anyone learning it.</p>
+
+<p>This is for.</p>
+
+<p>-getting started with a language
+-getting back to basic fundamental form
+-me to put cool links without spamming</p>
+
+<p>This link nuff said.</p>
+
+<p><a href="http://www.codecademy.com/groups/ruby-for-begginers/discussions/51c804af282ae3009b00a68d">http://www.codecademy.com/groups/ruby-for-begginers/discussions/51c804af282ae3009b00a68d</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[lessons learned hard#2]]></title>
+    <link href="http://stanzheng.github.io/blog/2013/08/28/lessons-learn-hard-number-2/"/>
+    <updated>2013-08-28T01:13:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/08/28/lessons-learn-hard-number-2</id>
+    <content type="html"><![CDATA[<h1>Installing VirtualBox on Ubuntu 13.04</h1>
+
+<ol>
+<li><p>When installing virtual box on linux boxes generic headers need to be installed.</p>
+
+<ol type="a">
+<li>go to vagrantup and grab the latest version for your os</li>
+<li>install latest version</li>
+<li>install linux-generic headers suggestion by virtualbox</li>
+<li>Virtual Box</li>
+<li>Restart is necessary or same error will be thrown</li>
+</ol>
+</li>
+</ol>
+
+
+<p>More at</p>
+
+<p><a href="http://askubuntu.com/questions/171684/trouble-running-virtualbox-on-ubuntu">http://askubuntu.com/questions/171684/trouble-running-virtualbox-on-ubuntu</a></p>
+
+<h1>Using PPAs</h1>
+
+<ol>
+<li><p>Clear benefit of using PPAs instead of ones provided by linux canonical</p>
+
+<ol type="a">
+<li>most up to date version</li>
+<li>fixed anything if you are doing early_adopter/bleeding edge projects</li>
+<li>usually add once, and done</li>
+</ol>
+</li>
+</ol>
+
+
+<p>head to launchpad.net <br/>
+read technical instructions <br/>
+add that PPA for your version and flavor of linux</p>
+
+<p>sudo apt-get update <br/>
+sudo apt-get upgrade</p>
+
+<p>Either now you will have an updated version of your tool you are trying to run or you can now sudo apt-get install it</p>
+
+<h1>Mergetools</h1>
+
+<ol>
+<li>Using different mergetools whichever one you like best</li>
+</ol>
+
+
+<p>git mergetool -t xdiff3 is pretty cool.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Can't Rake Deploy? Fastforwarding]]></title>
+    <link href="http://stanzheng.github.io/blog/2013/08/25/cant-rake-deploy-fastforwarding/"/>
+    <updated>2013-08-25T21:38:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/08/25/cant-rake-deploy-fastforwarding</id>
+    <content type="html"><![CDATA[<p>Migrated to a new username?
+Commited to the wrong branch?<br/>
+Branch Behind someway somehow?</p>
+
+<p>This stackoverflow question suggests an easy fix by adding a + which is equivalent to a -f force push to override.</p>
+
+<p>This will mess up anything you did have but its better than starting over like I had before.</p>
+
+<p><a href="http://stackoverflow.com/questions/17609453/rake-gen-deploy-rejected-in-octopress">http://stackoverflow.com/questions/17609453/rake-gen-deploy-rejected-in-octopress</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+>>>>>>> 3af2aef5b17adfbcb5367a5f4a48144b47da27fe
+    <title type="html"><![CDATA[adopt-a-thing]]></title>
+    <link href="http://stanzheng.github.io/blog/2013/08/25/adopt-a-thing/"/>
+    <updated>2013-08-25T16:11:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/08/25/adopt-a-thing</id>
+    <content type="html"><![CDATA[<h1>Why</h1>
+
+<p>One of my projects that I took interested in with CodeforAmerica is the adopt-a-hydrant project.
+A solution introduced by CodeforBoston to solve unsafe frozen fire hydrants during the winter.
+Allowing citizens to be aware of important and streamlining the process is a reoccuring theme with this project.</p>
+
+<p>I am trying to localize it for Norfolk and the <a href="http://www.norfolkbeautiful.org/">http://www.norfolkbeautiful.org/</a> and Adopt-A-Spot Programs. Stream lining how this project takes place, encourages youth to get more active and showcase the efforts of volunteers. We can spatial recognize the hot zones where people are cleaning, and effeciently examine other areas of need.</p>
+
+<p>my adopt-a-spot repo <a href="https://github.com/stanzheng/adopt-a-hydrant">https://github.com/stanzheng/adopt-a-hydrant</a></p>
+
+<h1>Localization</h1>
+
+<p>I had trouble with localization. After I got it set up, I was thinking how do I load my info into it. These four commits by @benschoenfeld to the c4hrva codeforamerica brigade repo helped me out.</p>
+
+<p><a href="https://github.com/c4hrva/adopt-a-spot/commits/master">https://github.com/c4hrva/adopt-a-spot/commits/master</a></p>
+
+<ol>
+<li>Change UI</li>
+<li>Change ReadME</li>
+<li>Add Data</li>
+</ol>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Bootstrap:Asset_Compiling]]></title>
+    <link href="http://stanzheng.github.io/blog/2013/08/23/bootstrap-asset-compiling/"/>
+    <updated>2013-08-23T23:04:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/08/23/bootstrap-asset-compiling</id>
+    <content type="html"><![CDATA[<p>Continuation of small business site plan.</p>
+
+<p>Compiling all my assets and adding them to a single repo.</p>
+
+<p>All the information for this project is all in IMG&rsquo;s and PNGs.</p>
+
+<p>This has to be text and the only way is good ole fashion typing.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Lessons Learned Hard#1]]></title>
+    <link href="http://stanzheng.github.io/blog/2013/08/23/lessons-learned-hart-number-1/"/>
+    <updated>2013-08-23T22:49:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/08/23/lessons-learned-hart-number-1</id>
+    <content type="html"><![CDATA[<p>Lessons Learned Hard Summary:
+-Best way to get back to normal is to clean install.
+-Make back ups and back ups of back ups.
+-Keep realistic expectations of every project</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Euler Problems: Wonderful Practice]]></title>
+    <link href="http://stanzheng.github.io/blog/2013/08/21/euler/"/>
+    <updated>2013-08-21T00:27:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/08/21/euler</id>
+    <content type="html"><![CDATA[<h1>Project euler </h1>
+
+<p>Projecteuler.net is a collection of math problems that can be implementable in a programming flavor of your choosing.</p>
+
+<p>In my github repo i&rsquo;ve endevored to complete implementing these problems in any language I&rsquo;m currently learning to better understand semantics of the language I&rsquo;m working in and practice math skills.</p>
+
+<p>Here is a helpful resource of answers to compare to</p>
+
+<p><a href="https://code.google.com/p/projecteuler-solutions/wiki/ProjectEulerSolutions">https://code.google.com/p/projecteuler-solutions/wiki/ProjectEulerSolutions</a></p>
+
+<p>make it a goal to get to these solutions, not to backwards solve.</p>
+
+<h1>Happy Solving!</h1>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[A Jump into Bootstrap: Commerce Made Easy]]></title>
+    <link href="http://stanzheng.github.io/blog/2013/08/20/a-jump-into-bootstrap-commerce-made-easy/"/>
+    <updated>2013-08-20T21:27:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/08/20/a-jump-into-bootstrap-commerce-made-easy</id>
+    <content type="html"><![CDATA[<p><img src="http://i.imgur.com/RwuhTjq.jpg"></p>
+
+<p>This is what I&rsquo;m starting with. Its a small business website with infrequent needs.  <a href="http://thechinasun.com">http://thechinasun.com</a></p>
+
+<p>Like all small restaurant businesses core information wanted by customers are</p>
+
+<p>-Hours<br/>
+-Phone Number <br/>
+-Address  <br/>
+-Menu &amp; Prices<br/>
+-Gallery</p>
+
+<p>Using Bootstrap is a smart decision for a finish looking website fast and good experience on mobile for menus and call numbers.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Learned Lessons Hard]]></title>
+    <link href="http://stanzheng.github.io/blog/2013/08/20/hard-lessons-learned/"/>
+    <updated>2013-08-20T21:14:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/08/20/hard-lessons-learned</id>
+    <content type="html"><![CDATA[<h1>Blog Berries</h1>
+
+<p>Saw this idea on a similar Octopress blogger at Shopify. They posted things they had learned, whether it was a snippet or something important.
+A self composed series of don&#8217;ts learned through experience and serious angry hacking.</p>
+
+<h1>Not being mean</h1>
+
+<p>Don&rsquo;t take this as a criticism but rather helpful advice related to me that can be applied to you.</p>
+
+<h1>Ways to help you not F*** up</h1>
+
+<p>Let the anger begin.</p>
+]]></content>
+  </entry>
+  
+<<<<<<< HEAD
+  <entry>
+    <title type="html"><![CDATA[Biggest No-No: Dont Commit to Master]]></title>
+    <link href="http://stanzheng.github.io/blog/2013/08/19/biggest-no-no-dont-commit-to-master/"/>
+    <updated>2013-08-19T23:07:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/08/19/biggest-no-no-dont-commit-to-master</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Patrick Ryans a Nice Dude]]></title>
+    <link href="http://stanzheng.github.io/blog/2013/08/19/patrick-ryans-a-nice-dude/"/>
+    <updated>2013-08-19T20:09:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/08/19/patrick-ryans-a-nice-dude</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Pretty Fly for a Rye Guy]]></title>
+    <link href="http://stanzheng.github.io/blog/2013/08/19/pretty-fly-for-a-rye-guy/"/>
+    <updated>2013-08-19T19:12:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/08/19/pretty-fly-for-a-rye-guy</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[No rest for the wicked]]></title>
+    <link href="http://stanzheng.github.io/blog/2013/08/19/no-rest-for-the-wicked/"/>
+    <updated>2013-08-19T19:12:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/08/19/no-rest-for-the-wicked</id>
+    <content type="html"><![CDATA[<p>content: hello dolly</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hipsterish Blog Title]]></title>
+    <link href="http://stanzheng.github.io/blog/2013/08/19/hipsterish-blog-title/"/>
+    <updated>2013-08-19T19:12:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/08/19/hipsterish-blog-title</id>
+    <content type="html"><![CDATA[<p>Angry text about topics and life!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[thanks Alex Garlbay for the wicked theme]]></title>
+    <link href="http://stanzheng.github.io/blog/2013/08/19/thanks-alex-garlbay-for-the-wicked-theme/"/>
+    <updated>2013-08-19T19:11:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/08/19/thanks-alex-garlbay-for-the-wicked-theme</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[test]]></title>
+    <link href="http://stanzheng.github.io/blog/2013/08/19/test/"/>
+    <updated>2013-08-19T19:10:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/08/19/test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+=======
+>>>>>>> 3af2aef5b17adfbcb5367a5f4a48144b47da27fe
+</feed>
