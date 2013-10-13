@@ -4,7 +4,7 @@
   <title><![CDATA[Student Developer]]></title>
   <link href="http://stanzheng.github.io/atom.xml" rel="self"/>
   <link href="http://stanzheng.github.io/"/>
-  <updated>2013-10-13T17:13:45-04:00</updated>
+  <updated>2013-10-13T17:14:16-04:00</updated>
   <id>http://stanzheng.github.io/</id>
   <author>
     <name><![CDATA[Stanley Zheng]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[migrating octpress to your new github repo]]></title>
+    <link href="http://stanzheng.github.io/blog/2013/10/13/migrating-octpress-to-your-new-github-repo/"/>
+    <updated>2013-10-13T17:13:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/10/13/migrating-octpress-to-your-new-github-repo</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Dominion Enterprises Hack#6]]></title>
@@ -822,27 +831,6 @@ Allowing citizens to be aware of important and streamlining the process is a reo
 <p>make it a goal to get to these solutions, not to backwards solve.</p>
 
 <h1>Happy Solving!</h1>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[A Jump into Bootstrap: Commerce Made Easy]]></title>
-    <link href="http://stanzheng.github.io/blog/2013/08/20/a-jump-into-bootstrap-commerce-made-easy/"/>
-    <updated>2013-08-20T21:27:00-04:00</updated>
-    <id>http://stanzheng.github.io/blog/2013/08/20/a-jump-into-bootstrap-commerce-made-easy</id>
-    <content type="html"><![CDATA[<p><img src="http://i.imgur.com/RwuhTjq.jpg"></p>
-
-<p>This is what I&rsquo;m starting with. Its a small business website with infrequent needs.  <a href="http://thechinasun.com">http://thechinasun.com</a></p>
-
-<p>Like all small restaurant businesses core information wanted by customers are</p>
-
-<p>-Hours<br/>
--Phone Number <br/>
--Address  <br/>
--Menu &amp; Prices<br/>
--Gallery</p>
-
-<p>Using Bootstrap is a smart decision for a finish looking website fast and good experience on mobile for menus and call numbers.</p>
 ]]></content>
   </entry>
   
