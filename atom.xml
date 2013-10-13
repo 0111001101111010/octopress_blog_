@@ -4,7 +4,7 @@
   <title><![CDATA[Student Developer]]></title>
   <link href="http://stanzheng.github.io/atom.xml" rel="self"/>
   <link href="http://stanzheng.github.io/"/>
-  <updated>2013-09-14T21:11:05-04:00</updated>
+  <updated>2013-10-13T17:13:45-04:00</updated>
   <id>http://stanzheng.github.io/</id>
   <author>
     <name><![CDATA[Stanley Zheng]]></name>
@@ -14,11 +14,20 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Dominion Enterprises Hack#6]]></title>
+    <link href="http://stanzheng.github.io/blog/2013/10/04/dominion-enterprises-hack-number-6/"/>
+    <updated>2013-10-04T23:15:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/10/04/dominion-enterprises-hack-number-6</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Markdown: the best way to take notes from a college nub']]></title>
     <link href="http://stanzheng.github.io/blog/2013/09/14/markdown-the-best-way-to-take-notes-from-a-college-nub/"/>
     <updated>2013-09-14T20:01:00-04:00</updated>
     <id>http://stanzheng.github.io/blog/2013/09/14/markdown-the-best-way-to-take-notes-from-a-college-nub</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p><a href="http://daringfireball.net/projects/markdown/syntax#img">http://daringfireball.net/projects/markdown/syntax#img</a></p>
 ]]></content>
   </entry>
   
@@ -834,26 +843,6 @@ Allowing citizens to be aware of important and streamlining the process is a reo
 -Gallery</p>
 
 <p>Using Bootstrap is a smart decision for a finish looking website fast and good experience on mobile for menus and call numbers.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Learned Lessons Hard]]></title>
-    <link href="http://stanzheng.github.io/blog/2013/08/20/hard-lessons-learned/"/>
-    <updated>2013-08-20T21:14:00-04:00</updated>
-    <id>http://stanzheng.github.io/blog/2013/08/20/hard-lessons-learned</id>
-    <content type="html"><![CDATA[<h1>Blog Berries</h1>
-
-<p>Saw this idea on a similar Octopress blogger at Shopify. They posted things they had learned, whether it was a snippet or something important.
-A self composed series of don&#8217;ts learned through experience and serious angry hacking.</p>
-
-<h1>Not being mean</h1>
-
-<p>Don&rsquo;t take this as a criticism but rather helpful advice related to me that can be applied to you.</p>
-
-<h1>Ways to help you not F*** up</h1>
-
-<p>Let the anger begin.</p>
 ]]></content>
   </entry>
   
