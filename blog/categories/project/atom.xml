@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: project | Student Developer]]></title>
+  <link href="http://stanzheng.github.io/blog/categories/project/atom.xml" rel="self"/>
+  <link href="http://stanzheng.github.io/"/>
+  <updated>2013-09-14T21:11:05-04:00</updated>
+  <id>http://stanzheng.github.io/</id>
+  <author>
+    <name><![CDATA[Stanley Zheng]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The value of data for urban planning]]></title>
+    <link href="http://stanzheng.github.io/blog/2013/09/07/the-value-of-data-for-urban-planning/"/>
+    <updated>2013-09-07T22:13:00-04:00</updated>
+    <id>http://stanzheng.github.io/blog/2013/09/07/the-value-of-data-for-urban-planning</id>
+    <content type="html"><![CDATA[<h1>Urban Planners meet Grass Roots</h1>
+
+<p>What do urban planners value when they look at revitalizing older neighborhoods?  <br/>
+What do municalities deem as credible or notable indexes to decide what gets fixed?   <br/>
+How do local communities find the right people to take a plunge?</p>
+
+<p>Here is a copy paste of a list from Jason at Better Block project as useful indexes..</p>
+
+<p>```
+Better Block Metrics and Reporting Tools</p>
+
+<p>Metrics to gather</p>
+
+<p>Tuning the street for desired results</p>
+
+<p>Quantitative</p>
+
+<ul>
+<li><p>Vacant store fronts</p></li>
+<li><p>Block sales tax revenue</p></li>
+<li><p>Traffic speeds</p></li>
+<li><p>Traffic decibles</p></li>
+<li><p>Chicanes</p></li>
+<li><p>Crosswalks</p></li>
+<li><p>Bulb outs</p></li>
+<li><p>Bollards</p></li>
+<li><p>Pedestrian islands</p></li>
+<li><p>Active merchants association</p></li>
+<li><p>Residential units</p></li>
+<li><p>Commercial units</p></li>
+<li><p>Block Event Programming</p></li>
+<li><p>Pedestrian traffic</p>
+
+<ul>
+<li><p>Children</p></li>
+<li><p>Adults</p></li>
+</ul>
+</li>
+<li><p>M/F</p></li>
+<li><p>Single / Couples / Groups</p>
+
+<ul>
+<li>Elderly</li>
+</ul>
+</li>
+<li><p>M/F</p></li>
+<li><p>Single / Couples / Groups</p></li>
+<li><p>Bicycle traffic</p></li>
+<li><p>Bike parking</p></li>
+<li><p>Bike Infrastructure</p></li>
+<li><p>Indoor food vendors</p></li>
+<li><p>Outdoor food vendors</p></li>
+<li><p>Cafe seating</p></li>
+<li><p>Lingering</p></li>
+<li><p>Benches</p></li>
+<li><p>Trees</p></li>
+<li><p>Trash cans</p></li>
+<li><p>Public Markets</p></li>
+<li><p>Wayfinding signage</p></li>
+<li><p>Murals</p></li>
+<li><p>Public Art</p></li>
+<li><p>Public Space</p></li>
+<li><p>Playground facilities</p></li>
+<li><p>Water fountains</p></li>
+<li><p>Crime</p></li>
+<li><p>Home sales in surrounding area</p>
+
+<ul>
+<li><p>Avg. price</p></li>
+<li><h1>of days on market</h1></li>
+</ul>
+</li>
+<li><p>Building sales</p>
+
+<ul>
+<li><p>Avg. price</p></li>
+<li><h1>of days on market</h1></li>
+</ul>
+</li>
+<li><p>Leases</p></li>
+<li><p>Funds for public space maintenance/admin</p></li>
+<li><p>Positive press stories</p></li>
+<li><p>Negative press stories</p></li>
+<li><p>Hashtags for place</p></li>
+<li><p>Local businesses</p>
+
+<ul>
+<li><p>Hours of business operation</p></li>
+<li><p>Community involvement</p></li>
+</ul>
+</li>
+<li><p>Franchised businesses</p>
+
+<ul>
+<li><p>Hours of business operation</p></li>
+<li><p>Community involvement</p></li>
+</ul>
+</li>
+<li><p>Local property ownership</p></li>
+<li><p>Ratio of affordable housing</p></li>
+<li><p>CO2 levels</p></li>
+<li><p>Existing infrastructure maintenance costs</p></li>
+<li><p>Change in infrastructure maintenance costs</p></li>
+<li><p>Water features</p></li>
+<li><p>Kiosks</p></li>
+<li><p>Public transit stops</p></li>
+<li><p>Invitations for artists (stages, market stalls)</p></li>
+<li><p>Beergardens</p></li>
+<li><p>Dog parks</p></li>
+<li><p>Dog facilities</p></li>
+<li><p>Public restrooms</p></li>
+<li><p>Parking</p></li>
+<li><p>Outdoor games</p></li>
+<li><p>Blade signs</p></li>
+<li><p>Bulletin boards</p></li>
+<li><p>People taking pictures</p></li>
+<li><p>Sidewalk lighting</p></li>
+<li><p>Width of street</p></li>
+<li><p>Width of sidewalk</p></li>
+<li><p>Width of building</p></li>
+<li><p>Square footage of commercial building space</p></li>
+<li><p>Lease price/sqft</p></li>
+<li><p>Number of business who carry locally/regionally made products</p></li>
+<li><p>Clocks</p></li>
+<li><p>Business owner lifecycle</p></li>
+<li><p>Property owner lifecycle</p></li>
+<li><p>Price for business permit</p></li>
+<li><p>Property tax</p></li>
+<li><p>Demographics</p></li>
+<li><p>Visitors</p></li>
+<li><p>Residents</p></li>
+<li><p>Block/District website</p></li>
+<li><p>Block/District Facebook Page</p></li>
+<li><p>Block/District Twitter</p></li>
+<li><p>diversity, age and race</p></li>
+<li><p>ratio cars/people space</p></li>
+<li><p>yearly %change in parking</p></li>
+</ul>
+
+
+<p>Qualitative</p>
+
+<ul>
+<li><p>Names of neighbors</p></li>
+<li><p>Neighborhood gatherings</p></li>
+<li><p>Romantic ambience</p></li>
+<li><p>Perception of safety</p></li>
+<li><p>Public space design</p></li>
+<li><p>Business design</p></li>
+<li><p>Quality of goods sold</p></li>
+<li><p>Unique neighborhood identity (ref. food, history, art, design)</p></li>
+<li><p>Pride in place</p></li>
+<li><p>semi-regular street performance</p></li>
+<li><p>Third Places</p></li>
+<li><p>Daylife</p></li>
+<li><p>Nightlife</p></li>
+<li><p>Neighborhood branded products</p></li>
+<li><p>Quality of multi-modal connections to adjacent Districts</p></li>
+</ul>
+
+
+<p>```</p>
+]]></content>
+  </entry>
+  
+</feed>
