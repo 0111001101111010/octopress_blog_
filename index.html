@@ -80,7 +80,7 @@
         repos = repos || [];
         page = page || 1;
 
-        var uri = "https://api.github.com/orgs/twitter/repos?callback=?"
+        var uri = "https://api.github.com/users/stanzheng/repos?callback=?"
                 + "&per_page=100"
                 + "&page="+page;
 
@@ -136,7 +136,7 @@
       }
       addRepos();
 
-      $.getJSON("https://api.github.com/orgs/twitter/members?callback=?", function (result) {
+      $.getJSON("https://api.github.com/users/stanzheng/members?callback=?", function (result) {
         var members = result.data;
 
         $(function () {
