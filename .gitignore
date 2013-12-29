@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .bundle
 .DS_Store
 .sass-cache
@@ -11,3 +12,7 @@ source/_stash
 source/stylesheets/screen.css
 vendor
 node_modules
+=======
+.DS_Store
+
+>>>>>>> 2b9dbfb93e1cb437a35c2eee42dd8a77fa6dec45
