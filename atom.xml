@@ -4,7 +4,7 @@
   <title><![CDATA[Student Developer]]></title>
   <link href="http://stanzheng.github.io/blog/atom.xml" rel="self"/>
   <link href="http://stanzheng.github.io/blog/"/>
-  <updated>2014-01-03T05:51:11-05:00</updated>
+  <updated>2014-01-03T05:53:05-05:00</updated>
   <id>http://stanzheng.github.io/blog/</id>
   <author>
     <name><![CDATA[Stanley Zheng]]></name>
@@ -18,11 +18,11 @@
     <link href="http://stanzheng.github.io/blog/blog/2014/01/03/write-a-blog-post-a-week/"/>
     <updated>2014-01-03T05:49:00-05:00</updated>
     <id>http://stanzheng.github.io/blog/blog/2014/01/03/write-a-blog-post-a-week</id>
-    <content type="html"><![CDATA[<p>How Hard Could It Be?
-+   Emerging Tech
-+   Hack-a-thon Blog
-+   Startup Topics
-+   Maybe even some Tutorials</p>
+    <content type="html"><![CDATA[<p> How Hard Could It Be?<br/>
+ Emerging Tech    <br/>
+ Hack-a-thon Blog <br/>
+ Startup Topics       <br/>
+ Maybe even some Tutorials</p>
 ]]></content>
   </entry>
   
