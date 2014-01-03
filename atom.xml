@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Student Developer]]></title>
-  <link href="http://stanzheng.github.io//github/atom.xml" rel="self"/>
-  <link href="http://stanzheng.github.io//github/"/>
-  <updated>2014-01-03T04:50:04-05:00</updated>
-  <id>http://stanzheng.github.io//github/</id>
+  <link href="http://stanzheng.github.io/blog/atom.xml" rel="self"/>
+  <link href="http://stanzheng.github.io/blog/"/>
+  <updated>2014-01-03T05:04:39-05:00</updated>
+  <id>http://stanzheng.github.io/blog/</id>
   <author>
     <name><![CDATA[Stanley Zheng]]></name>
     
@@ -15,54 +15,54 @@
   
   <entry>
     <title type="html"><![CDATA[Dominion Enterprises Hack#6]]></title>
-    <link href="http://stanzheng.github.io//github/blog/2013/10/04/dominion-enterprises-hack-number-6/"/>
+    <link href="http://stanzheng.github.io/blog/blog/2013/10/04/dominion-enterprises-hack-number-6/"/>
     <updated>2013-10-04T23:15:00-04:00</updated>
-    <id>http://stanzheng.github.io//github/blog/2013/10/04/dominion-enterprises-hack-number-6</id>
+    <id>http://stanzheng.github.io/blog/blog/2013/10/04/dominion-enterprises-hack-number-6</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Markdown: the best way to take notes from a college nub']]></title>
-    <link href="http://stanzheng.github.io//github/blog/2013/09/14/markdown-the-best-way-to-take-notes-from-a-college-nub/"/>
+    <link href="http://stanzheng.github.io/blog/blog/2013/09/14/markdown-the-best-way-to-take-notes-from-a-college-nub/"/>
     <updated>2013-09-14T20:01:00-04:00</updated>
-    <id>http://stanzheng.github.io//github/blog/2013/09/14/markdown-the-best-way-to-take-notes-from-a-college-nub</id>
+    <id>http://stanzheng.github.io/blog/blog/2013/09/14/markdown-the-best-way-to-take-notes-from-a-college-nub</id>
     <content type="html"><![CDATA[<p><a href="http://daringfireball.net/projects/markdown/syntax#img">http://daringfireball.net/projects/markdown/syntax#img</a></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Dart: Web Programming of the Future]]></title>
-    <link href="http://stanzheng.github.io//github/blog/2013/09/14/dart-web-programming-of-the-future/"/>
+    <link href="http://stanzheng.github.io/blog/blog/2013/09/14/dart-web-programming-of-the-future/"/>
     <updated>2013-09-14T20:00:00-04:00</updated>
-    <id>http://stanzheng.github.io//github/blog/2013/09/14/dart-web-programming-of-the-future</id>
+    <id>http://stanzheng.github.io/blog/blog/2013/09/14/dart-web-programming-of-the-future</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[So you want to EC2 right..]]></title>
-    <link href="http://stanzheng.github.io//github/blog/2013/09/14/so-you-want-to-ec2-right-dot/"/>
+    <link href="http://stanzheng.github.io/blog/blog/2013/09/14/so-you-want-to-ec2-right-dot/"/>
     <updated>2013-09-14T19:59:00-04:00</updated>
-    <id>http://stanzheng.github.io//github/blog/2013/09/14/so-you-want-to-ec2-right-dot</id>
+    <id>http://stanzheng.github.io/blog/blog/2013/09/14/so-you-want-to-ec2-right-dot</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Push yourself and be rewarded]]></title>
-    <link href="http://stanzheng.github.io//github/blog/2013/09/11/push-yourself-and-be-rewarded/"/>
+    <link href="http://stanzheng.github.io/blog/blog/2013/09/11/push-yourself-and-be-rewarded/"/>
     <updated>2013-09-11T23:26:00-04:00</updated>
-    <id>http://stanzheng.github.io//github/blog/2013/09/11/push-yourself-and-be-rewarded</id>
+    <id>http://stanzheng.github.io/blog/blog/2013/09/11/push-yourself-and-be-rewarded</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Rails:restart your app]]></title>
-    <link href="http://stanzheng.github.io//github/blog/2013/09/10/rails-restart-your-app/"/>
+    <link href="http://stanzheng.github.io/blog/blog/2013/09/10/rails-restart-your-app/"/>
     <updated>2013-09-10T01:16:00-04:00</updated>
-    <id>http://stanzheng.github.io//github/blog/2013/09/10/rails-restart-your-app</id>
+    <id>http://stanzheng.github.io/blog/blog/2013/09/10/rails-restart-your-app</id>
     <content type="html"><![CDATA[<p>Rails tips:</p>
 
 <p>If you migrated your database or changed your schema. Before flipping out about errors like and why it doesn&rsquo;t work. Restart your app</p>
@@ -102,9 +102,9 @@
   
   <entry>
     <title type="html"><![CDATA[apache2 and userdir]]></title>
-    <link href="http://stanzheng.github.io//github/blog/2013/09/09/apache2-and-userdir/"/>
+    <link href="http://stanzheng.github.io/blog/blog/2013/09/09/apache2-and-userdir/"/>
     <updated>2013-09-09T20:49:00-04:00</updated>
-    <id>http://stanzheng.github.io//github/blog/2013/09/09/apache2-and-userdir</id>
+    <id>http://stanzheng.github.io/blog/blog/2013/09/09/apache2-and-userdir</id>
     <content type="html"><![CDATA[<p>Follow these instructions explicitly for Ubuntu 12.04</p>
 
 <p><a href="http://ubuntuserverguide.com/2012/10/how-to-enable-and-configure-apache2-userdir-module-in-ubuntu-server-12-04.html">http://ubuntuserverguide.com/2012/10/how-to-enable-and-configure-apache2-userdir-module-in-ubuntu-server-12-04.html</a></p>
@@ -113,9 +113,9 @@
   
   <entry>
     <title type="html"><![CDATA[The value of data for urban planning]]></title>
-    <link href="http://stanzheng.github.io//github/blog/2013/09/07/the-value-of-data-for-urban-planning/"/>
+    <link href="http://stanzheng.github.io/blog/blog/2013/09/07/the-value-of-data-for-urban-planning/"/>
     <updated>2013-09-07T22:13:00-04:00</updated>
-    <id>http://stanzheng.github.io//github/blog/2013/09/07/the-value-of-data-for-urban-planning</id>
+    <id>http://stanzheng.github.io/blog/blog/2013/09/07/the-value-of-data-for-urban-planning</id>
     <content type="html"><![CDATA[<h1>Urban Planners meet Grass Roots</h1>
 
 <p>What do urban planners value when they look at revitalizing older neighborhoods?  <br/>
@@ -589,18 +589,18 @@ How do local communities find the right people to take a plunge?</p>
   
   <entry>
     <title type="html"><![CDATA[Do something meaningful this week]]></title>
-    <link href="http://stanzheng.github.io//github/blog/2013/09/06/do-something-meaningful-this-week/"/>
+    <link href="http://stanzheng.github.io/blog/blog/2013/09/06/do-something-meaningful-this-week/"/>
     <updated>2013-09-06T18:07:00-04:00</updated>
-    <id>http://stanzheng.github.io//github/blog/2013/09/06/do-something-meaningful-this-week</id>
+    <id>http://stanzheng.github.io/blog/blog/2013/09/06/do-something-meaningful-this-week</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[case sensitivity]]></title>
-    <link href="http://stanzheng.github.io//github/blog/2013/09/06/case-sensitivity/"/>
+    <link href="http://stanzheng.github.io/blog/blog/2013/09/06/case-sensitivity/"/>
     <updated>2013-09-06T17:58:00-04:00</updated>
-    <id>http://stanzheng.github.io//github/blog/2013/09/06/case-sensitivity</id>
+    <id>http://stanzheng.github.io/blog/blog/2013/09/06/case-sensitivity</id>
     <content type="html"><![CDATA[<p>so yeah tweet from @travisjwebb on twitter.</p>
 
 <p>Was wondering why a gh-page was taking an eternity and a half to show up.</p>
@@ -616,9 +616,9 @@ Yeah&hellip;</p>
   
   <entry>
     <title type="html"><![CDATA[Lessons Learned Hard#3]]></title>
-    <link href="http://stanzheng.github.io//github/blog/2013/09/01/lessons-learned-hard-number-3/"/>
+    <link href="http://stanzheng.github.io/blog/blog/2013/09/01/lessons-learned-hard-number-3/"/>
     <updated>2013-09-01T14:40:00-04:00</updated>
-    <id>http://stanzheng.github.io//github/blog/2013/09/01/lessons-learned-hard-number-3</id>
+    <id>http://stanzheng.github.io/blog/blog/2013/09/01/lessons-learned-hard-number-3</id>
     <content type="html"><![CDATA[<ol>
 <li><p>Keeps a running list of programs on your environment.</p></li>
 <li><p>Document what you did so you remember what you did months ago.
@@ -641,9 +641,9 @@ No way would I remember what I did in all those lines</p>
   
   <entry>
     <title type="html"><![CDATA[RTSP is the shiz]]></title>
-    <link href="http://stanzheng.github.io//github/blog/2013/09/01/rtsp-is-the-shiz/"/>
+    <link href="http://stanzheng.github.io/blog/blog/2013/09/01/rtsp-is-the-shiz/"/>
     <updated>2013-09-01T14:39:00-04:00</updated>
-    <id>http://stanzheng.github.io//github/blog/2013/09/01/rtsp-is-the-shiz</id>
+    <id>http://stanzheng.github.io/blog/blog/2013/09/01/rtsp-is-the-shiz</id>
     <content type="html"><![CDATA[<p>If you don&rsquo;t like the client you&rsquo;re currently using, look into seeing where the environment is receiving its data from.</p>
 
 <p>For example, most live streams utilize RTSP protocol. Grab the stream ID and plug it up into your favorite client.</p>
@@ -654,9 +654,9 @@ No way would I remember what I did in all those lines</p>
   
   <entry>
     <title type="html"><![CDATA[Killing it Ruby]]></title>
-    <link href="http://stanzheng.github.io//github/blog/2013/08/28/killing-it-ruby/"/>
+    <link href="http://stanzheng.github.io/blog/blog/2013/08/28/killing-it-ruby/"/>
     <updated>2013-08-28T09:21:00-04:00</updated>
-    <id>http://stanzheng.github.io//github/blog/2013/08/28/killing-it-ruby</id>
+    <id>http://stanzheng.github.io/blog/blog/2013/08/28/killing-it-ruby</id>
     <content type="html"><![CDATA[<p>Creating a page for each language link is probably helpful to anyone learning it.</p>
 
 <p>This is for.</p>
@@ -673,9 +673,9 @@ No way would I remember what I did in all those lines</p>
   
   <entry>
     <title type="html"><![CDATA[lessons learned hard#2]]></title>
-    <link href="http://stanzheng.github.io//github/blog/2013/08/28/lessons-learn-hard-number-2/"/>
+    <link href="http://stanzheng.github.io/blog/blog/2013/08/28/lessons-learn-hard-number-2/"/>
     <updated>2013-08-28T01:13:00-04:00</updated>
-    <id>http://stanzheng.github.io//github/blog/2013/08/28/lessons-learn-hard-number-2</id>
+    <id>http://stanzheng.github.io/blog/blog/2013/08/28/lessons-learn-hard-number-2</id>
     <content type="html"><![CDATA[<h1>Installing VirtualBox on Ubuntu 13.04</h1>
 
 <ol>
@@ -732,9 +732,9 @@ sudo apt-get upgrade</p>
   
   <entry>
     <title type="html"><![CDATA[Can't Rake Deploy? Fastforwarding]]></title>
-    <link href="http://stanzheng.github.io//github/blog/2013/08/25/cant-rake-deploy-fastforwarding/"/>
+    <link href="http://stanzheng.github.io/blog/blog/2013/08/25/cant-rake-deploy-fastforwarding/"/>
     <updated>2013-08-25T21:38:00-04:00</updated>
-    <id>http://stanzheng.github.io//github/blog/2013/08/25/cant-rake-deploy-fastforwarding</id>
+    <id>http://stanzheng.github.io/blog/blog/2013/08/25/cant-rake-deploy-fastforwarding</id>
     <content type="html"><![CDATA[<p>Migrated to a new username?
 Commited to the wrong branch?<br/>
 Branch Behind someway somehow?</p>
@@ -749,9 +749,9 @@ Branch Behind someway somehow?</p>
   
   <entry>
     <title type="html"><![CDATA[adopt-a-thing]]></title>
-    <link href="http://stanzheng.github.io//github/blog/2013/08/25/adopt-a-thing/"/>
+    <link href="http://stanzheng.github.io/blog/blog/2013/08/25/adopt-a-thing/"/>
     <updated>2013-08-25T16:11:00-04:00</updated>
-    <id>http://stanzheng.github.io//github/blog/2013/08/25/adopt-a-thing</id>
+    <id>http://stanzheng.github.io/blog/blog/2013/08/25/adopt-a-thing</id>
     <content type="html"><![CDATA[<h1>Why</h1>
 
 <p>One of my projects that I took interested in with CodeforAmerica is the adopt-a-hydrant project.
@@ -779,9 +779,9 @@ Allowing citizens to be aware of important and streamlining the process is a reo
   
   <entry>
     <title type="html"><![CDATA[Bootstrap:Asset_Compiling]]></title>
-    <link href="http://stanzheng.github.io//github/blog/2013/08/23/bootstrap-asset-compiling/"/>
+    <link href="http://stanzheng.github.io/blog/blog/2013/08/23/bootstrap-asset-compiling/"/>
     <updated>2013-08-23T23:04:00-04:00</updated>
-    <id>http://stanzheng.github.io//github/blog/2013/08/23/bootstrap-asset-compiling</id>
+    <id>http://stanzheng.github.io/blog/blog/2013/08/23/bootstrap-asset-compiling</id>
     <content type="html"><![CDATA[<p>Continuation of small business site plan.</p>
 
 <p>Compiling all my assets and adding them to a single repo.</p>
@@ -794,9 +794,9 @@ Allowing citizens to be aware of important and streamlining the process is a reo
   
   <entry>
     <title type="html"><![CDATA[Lessons Learned Hard#1]]></title>
-    <link href="http://stanzheng.github.io//github/blog/2013/08/23/lessons-learned-hart-number-1/"/>
+    <link href="http://stanzheng.github.io/blog/blog/2013/08/23/lessons-learned-hart-number-1/"/>
     <updated>2013-08-23T22:49:00-04:00</updated>
-    <id>http://stanzheng.github.io//github/blog/2013/08/23/lessons-learned-hart-number-1</id>
+    <id>http://stanzheng.github.io/blog/blog/2013/08/23/lessons-learned-hart-number-1</id>
     <content type="html"><![CDATA[<p>Lessons Learned Hard Summary:
 -Best way to get back to normal is to clean install.
 -Make back ups and back ups of back ups.
@@ -806,9 +806,9 @@ Allowing citizens to be aware of important and streamlining the process is a reo
   
   <entry>
     <title type="html"><![CDATA[Euler Problems: Wonderful Practice]]></title>
-    <link href="http://stanzheng.github.io//github/blog/2013/08/21/euler/"/>
+    <link href="http://stanzheng.github.io/blog/blog/2013/08/21/euler/"/>
     <updated>2013-08-21T00:27:00-04:00</updated>
-    <id>http://stanzheng.github.io//github/blog/2013/08/21/euler</id>
+    <id>http://stanzheng.github.io/blog/blog/2013/08/21/euler</id>
     <content type="html"><![CDATA[<h1>Project euler </h1>
 
 <p>Projecteuler.net is a collection of math problems that can be implementable in a programming flavor of your choosing.</p>
@@ -827,9 +827,9 @@ Allowing citizens to be aware of important and streamlining the process is a reo
   
   <entry>
     <title type="html"><![CDATA[A Jump into Bootstrap: Commerce Made Easy]]></title>
-    <link href="http://stanzheng.github.io//github/blog/2013/08/20/a-jump-into-bootstrap-commerce-made-easy/"/>
+    <link href="http://stanzheng.github.io/blog/blog/2013/08/20/a-jump-into-bootstrap-commerce-made-easy/"/>
     <updated>2013-08-20T21:27:00-04:00</updated>
-    <id>http://stanzheng.github.io//github/blog/2013/08/20/a-jump-into-bootstrap-commerce-made-easy</id>
+    <id>http://stanzheng.github.io/blog/blog/2013/08/20/a-jump-into-bootstrap-commerce-made-easy</id>
     <content type="html"><![CDATA[<p><img src="http://i.imgur.com/RwuhTjq.jpg"></p>
 
 <p>This is what I&rsquo;m starting with. Its a small business website with infrequent needs.  <a href="http://thechinasun.com">http://thechinasun.com</a></p>

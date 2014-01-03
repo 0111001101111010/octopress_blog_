@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: project | Student Developer]]></title>
-  <link href="http://stanzheng.github.io//github/blog/categories/project/atom.xml" rel="self"/>
-  <link href="http://stanzheng.github.io//github/"/>
-  <updated>2014-01-03T04:50:04-05:00</updated>
-  <id>http://stanzheng.github.io//github/</id>
+  <link href="http://stanzheng.github.io/blog/blog/categories/project/atom.xml" rel="self"/>
+  <link href="http://stanzheng.github.io/blog/"/>
+  <updated>2014-01-03T05:04:39-05:00</updated>
+  <id>http://stanzheng.github.io/blog/</id>
   <author>
     <name><![CDATA[Stanley Zheng]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The value of data for urban planning]]></title>
-    <link href="http://stanzheng.github.io//github/blog/2013/09/07/the-value-of-data-for-urban-planning/"/>
+    <link href="http://stanzheng.github.io/blog/blog/2013/09/07/the-value-of-data-for-urban-planning/"/>
     <updated>2013-09-07T22:13:00-04:00</updated>
-    <id>http://stanzheng.github.io//github/blog/2013/09/07/the-value-of-data-for-urban-planning</id>
+    <id>http://stanzheng.github.io/blog/blog/2013/09/07/the-value-of-data-for-urban-planning</id>
     <content type="html"><![CDATA[<h1>Urban Planners meet Grass Roots</h1>
 
 <p>What do urban planners value when they look at revitalizing older neighborhoods?  <br/>

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: github | Student Developer]]></title>
-  <link href="http://stanzheng.github.io//github/blog/categories/github/atom.xml" rel="self"/>
-  <link href="http://stanzheng.github.io//github/"/>
-  <updated>2014-01-03T04:50:04-05:00</updated>
-  <id>http://stanzheng.github.io//github/</id>
+  <link href="http://stanzheng.github.io/blog/blog/categories/github/atom.xml" rel="self"/>
+  <link href="http://stanzheng.github.io/blog/"/>
+  <updated>2014-01-03T05:04:39-05:00</updated>
+  <id>http://stanzheng.github.io/blog/</id>
   <author>
     <name><![CDATA[Stanley Zheng]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[adopt-a-thing]]></title>
-    <link href="http://stanzheng.github.io//github/blog/2013/08/25/adopt-a-thing/"/>
+    <link href="http://stanzheng.github.io/blog/blog/2013/08/25/adopt-a-thing/"/>
     <updated>2013-08-25T16:11:00-04:00</updated>
-    <id>http://stanzheng.github.io//github/blog/2013/08/25/adopt-a-thing</id>
+    <id>http://stanzheng.github.io/blog/blog/2013/08/25/adopt-a-thing</id>
     <content type="html"><![CDATA[<h1>Why</h1>
 
 <p>One of my projects that I took interested in with CodeforAmerica is the adopt-a-hydrant project.

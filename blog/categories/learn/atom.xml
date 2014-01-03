@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: learn | Student Developer]]></title>
-  <link href="http://stanzheng.github.io//github/blog/categories/learn/atom.xml" rel="self"/>
-  <link href="http://stanzheng.github.io//github/"/>
-  <updated>2014-01-03T04:50:04-05:00</updated>
-  <id>http://stanzheng.github.io//github/</id>
+  <link href="http://stanzheng.github.io/blog/blog/categories/learn/atom.xml" rel="self"/>
+  <link href="http://stanzheng.github.io/blog/"/>
+  <updated>2014-01-03T05:04:39-05:00</updated>
+  <id>http://stanzheng.github.io/blog/</id>
   <author>
     <name><![CDATA[Stanley Zheng]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Killing it Ruby]]></title>
-    <link href="http://stanzheng.github.io//github/blog/2013/08/28/killing-it-ruby/"/>
+    <link href="http://stanzheng.github.io/blog/blog/2013/08/28/killing-it-ruby/"/>
     <updated>2013-08-28T09:21:00-04:00</updated>
-    <id>http://stanzheng.github.io//github/blog/2013/08/28/killing-it-ruby</id>
+    <id>http://stanzheng.github.io/blog/blog/2013/08/28/killing-it-ruby</id>
     <content type="html"><![CDATA[<p>Creating a page for each language link is probably helpful to anyone learning it.</p>
 
 <p>This is for.</p>
