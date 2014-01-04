@@ -52,7 +52,9 @@ console.log(todosView.el); // logs <ul id="todos" class="container"></ul>
    *COLLECTION.remove()
 
 3. Persistant data
-=================  
+===================  
+
+Example 
 ``` javascript
 
 var Todo = Backbone.Model.extend({
@@ -76,8 +78,10 @@ todo2.save(); // sends HTTP PUT to /todos/2
 
 todos.create({title: 'Try out code samples'}); // sends HTTP POST to /todos and adds to collection
 
-''''
-4. Event based
+```
+
+Event based
+
 *Backbone.Events is mixed into the other *Backbone classes, including:	
 	*Backbone
 	*Backbone.Model
