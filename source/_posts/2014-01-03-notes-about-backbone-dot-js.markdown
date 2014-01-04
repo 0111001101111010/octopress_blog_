@@ -53,7 +53,7 @@ console.log(todosView.el); // logs <ul id="todos" class="container"></ul>
 
 3. Persistant data
 =================  
-```javascript
+``` javascript
 
 var Todo = Backbone.Model.extend({
   defaults: {
