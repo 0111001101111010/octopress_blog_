@@ -4,7 +4,7 @@
   <title><![CDATA[Student Developer]]></title>
   <link href="http://stanzheng.github.io/blog/atom.xml" rel="self"/>
   <link href="http://stanzheng.github.io/blog/"/>
-  <updated>2014-01-04T09:46:06-05:00</updated>
+  <updated>2014-01-04T10:55:00-05:00</updated>
   <id>http://stanzheng.github.io/blog/</id>
   <author>
     <name><![CDATA[Stanley Zheng]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[I am so moving to hexo...]]></title>
+    <link href="http://stanzheng.github.io/blog/blog/2014/01/04/i-am-so-moving-to-hexo-dot-dot-dot/"/>
+    <updated>2014-01-04T10:54:00-05:00</updated>
+    <id>http://stanzheng.github.io/blog/blog/2014/01/04/i-am-so-moving-to-hexo-dot-dot-dot</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Notes About Backbone.JS]]></title>
@@ -89,35 +98,54 @@
 
 <h1>3. Persistant data</h1>
 
-<p>&#8220;`javascript</p>
+<p>Example</p>
 
-<p>var Todo = Backbone.Model.extend({
-  defaults: {</p>
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
+</pre></td><td class='code'><pre><code class='javascript'><span class='line'><span class="kd">var</span> <span class="nx">Todo</span> <span class="o">=</span> <span class="nx">Backbone</span><span class="p">.</span><span class="nx">Model</span><span class="p">.</span><span class="nx">extend</span><span class="p">({</span>
+</span><span class='line'>  <span class="nx">defaults</span><span class="o">:</span> <span class="p">{</span>
+</span><span class='line'>    <span class="nx">title</span><span class="o">:</span> <span class="s1">&#39;&#39;</span><span class="p">,</span>
+</span><span class='line'>    <span class="nx">completed</span><span class="o">:</span> <span class="kc">false</span>
+</span><span class='line'>  <span class="p">}</span>
+</span><span class='line'><span class="p">});</span>
+</span><span class='line'>
+</span><span class='line'><span class="kd">var</span> <span class="nx">TodosCollection</span> <span class="o">=</span> <span class="nx">Backbone</span><span class="p">.</span><span class="nx">Collection</span><span class="p">.</span><span class="nx">extend</span><span class="p">({</span>
+</span><span class='line'>  <span class="nx">model</span><span class="o">:</span> <span class="nx">Todo</span><span class="p">,</span>
+</span><span class='line'>  <span class="nx">url</span><span class="o">:</span> <span class="s1">&#39;localhost:27017s&#39;</span>
+</span><span class='line'><span class="p">});</span>
+</span><span class='line'>
+</span><span class='line'><span class="kd">var</span> <span class="nx">todos</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">TodosCollection</span><span class="p">();</span>
+</span><span class='line'><span class="nx">todos</span><span class="p">.</span><span class="nx">fetch</span><span class="p">();</span>
+</span><span class='line'>
+</span><span class='line'><span class="kd">var</span> <span class="nx">todo2</span> <span class="o">=</span> <span class="nx">todos</span><span class="p">.</span><span class="nx">get</span><span class="p">(</span><span class="mi">2</span><span class="p">);</span>
+</span><span class='line'><span class="nx">todo2</span><span class="p">.</span><span class="nx">set</span><span class="p">(</span><span class="s1">&#39;title&#39;</span><span class="p">,</span> <span class="s1">&#39;go fishing&#39;</span><span class="p">);</span>
+</span><span class='line'><span class="nx">todo2</span><span class="p">.</span><span class="nx">save</span><span class="p">();</span> <span class="c1">// sends HTTP PUT to /todos/2</span>
+</span><span class='line'>
+</span><span class='line'><span class="nx">todos</span><span class="p">.</span><span class="nx">create</span><span class="p">({</span><span class="nx">title</span><span class="o">:</span> <span class="s1">&#39;Try out code samples&#39;</span><span class="p">});</span> <span class="c1">// sends HTTP POST to /todos and adds to collection</span>
+</span></code></pre></td></tr></table></div></figure>
 
-<pre><code>title: '',
-completed: false
-</code></pre>
 
-<p>  }
-});</p>
+<p>Event based</p>
 
-<p>var TodosCollection = Backbone.Collection.extend({
-  model: Todo,
-  url: &lsquo;localhost:27017s&rsquo;
-});</p>
-
-<p>var todos = new TodosCollection();
-todos.fetch();</p>
-
-<p>var todo2 = todos.get(2);
-todo2.set(&lsquo;title&rsquo;, &lsquo;go fishing&rsquo;);
-todo2.save(); // sends HTTP PUT to /todos/2</p>
-
-<p>todos.create({title: &lsquo;Try out code samples&rsquo;}); // sends HTTP POST to /todos and adds to collection</p>
-
-<p>&lsquo;&rsquo;&lsquo;&rsquo;
-4. Event based
-<em>Backbone.Events is mixed into the other </em>Backbone classes, including:</p>
+<p><em>Backbone.Events is mixed into the other </em>Backbone classes, including:</p>
 
 <pre><code>*Backbone
 *Backbone.Model
@@ -939,18 +967,6 @@ Allowing citizens to be aware of important and streamlining the process is a reo
 <p>All the information for this project is all in IMG&rsquo;s and PNGs.</p>
 
 <p>This has to be text and the only way is good ole fashion typing.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Lessons Learned Hard#1]]></title>
-    <link href="http://stanzheng.github.io/blog/blog/2013/08/23/lessons-learned-hart-number-1/"/>
-    <updated>2013-08-23T22:49:00-04:00</updated>
-    <id>http://stanzheng.github.io/blog/blog/2013/08/23/lessons-learned-hart-number-1</id>
-    <content type="html"><![CDATA[<p>Lessons Learned Hard Summary:
--Best way to get back to normal is to clean install.
--Make back ups and back ups of back ups.
--Keep realistic expectations of every project</p>
 ]]></content>
   </entry>
   
