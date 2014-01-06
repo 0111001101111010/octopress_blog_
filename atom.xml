@@ -4,7 +4,7 @@
   <title><![CDATA[Student Developer]]></title>
   <link href="http://stanzheng.github.io/blog/atom.xml" rel="self"/>
   <link href="http://stanzheng.github.io/blog/"/>
-  <updated>2014-01-04T10:55:00-05:00</updated>
+  <updated>2014-01-05T21:25:05-05:00</updated>
   <id>http://stanzheng.github.io/blog/</id>
   <author>
     <name><![CDATA[Stanley Zheng]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Google Glass]]></title>
+    <link href="http://stanzheng.github.io/blog/blog/2014/01/05/google-glass/"/>
+    <updated>2014-01-05T21:24:00-05:00</updated>
+    <id>http://stanzheng.github.io/blog/blog/2014/01/05/google-glass</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[I am so moving to hexo...]]></title>
@@ -952,21 +961,6 @@ Allowing citizens to be aware of important and streamlining the process is a reo
 <li>Add Data</li>
 </ol>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Bootstrap:Asset_Compiling]]></title>
-    <link href="http://stanzheng.github.io/blog/blog/2013/08/23/bootstrap-asset-compiling/"/>
-    <updated>2013-08-23T23:04:00-04:00</updated>
-    <id>http://stanzheng.github.io/blog/blog/2013/08/23/bootstrap-asset-compiling</id>
-    <content type="html"><![CDATA[<p>Continuation of small business site plan.</p>
-
-<p>Compiling all my assets and adding them to a single repo.</p>
-
-<p>All the information for this project is all in IMG&rsquo;s and PNGs.</p>
-
-<p>This has to be text and the only way is good ole fashion typing.</p>
 ]]></content>
   </entry>
   
